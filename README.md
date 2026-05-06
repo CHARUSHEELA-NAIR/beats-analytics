@@ -1,4 +1,4 @@
-# 🎧 Beats by Dre — Personal Project
+# 🎧 Beats by Dre — Customer Analysis Project (Initiated by self)
 
 A end-to-end data analytics project analyzing customer behavior, sales trends, and sentiment for Beats by Dre products.
 
