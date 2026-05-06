@@ -1,0 +1,501 @@
+customer_id,purchase_date,product,price_usd,rating,age_group,gender,region,purchase_channel,review,year,month,month_name,revenue,rating_label
+CUST1000,2023-10-09,Beats Flex,49.99,2,25-34,Male,Europe,Online,Battery drains faster than advertised. Expected better performance.,2023,10,October,49.99,Negative
+CUST1001,2024-08-27,Beats Flex,49.99,5,45-54,Male,North America,Online,Best purchase I've made this year. Bass is deep and clear.,2024,8,August,49.99,Positive
+CUST1002,2023-01-28,Beats Fit Pro,199.99,3,55+,Male,Middle East,Third-Party Retailer,Average noise cancellation. Works fine in mild environments.,2023,1,January,199.99,Neutral
+CUST1003,2023-01-07,Beats Fit Pro,199.99,4,25-34,Non-Binary,Latin America,Apple Store,The fit is perfect and they're super comfortable for long sessions.,2023,1,January,199.99,Positive
+CUST1004,2023-04-15,Powerbeats Pro,249.99,3,18-24,Female,North America,Apple Store,Build quality feels okay. The case could be better designed.,2023,4,April,249.99,Neutral
+CUST1005,2024-04-15,Powerbeats Pro,249.99,4,55+,Male,Latin America,Online,Absolutely love these headphones! The sound quality is incredible.,2024,4,April,249.99,Positive
+CUST1006,2024-08-14,Beats Studio Buds+,169.99,4,25-34,Non-Binary,North America,Online,Incredible sound stage. Music feels alive with these on.,2024,8,August,169.99,Positive
+CUST1007,2023-03-23,Beats Flex,49.99,3,25-34,Male,Latin America,Apple Store,Build quality feels okay. The case could be better designed.,2023,3,March,49.99,Neutral
+CUST1008,2023-06-16,Beats Solo 4,199.99,5,35-44,Female,Europe,Apple Store,Incredible sound stage. Music feels alive with these on.,2023,6,June,199.99,Positive
+CUST1009,2024-09-15,Beats Flex,49.99,5,25-34,Non-Binary,Europe,In-Store,Best purchase I've made this year. Bass is deep and clear.,2024,9,September,49.99,Positive
+CUST1010,2024-12-02,Beats Solo 4,199.99,4,35-44,Male,Europe,Online,Battery life is outstanding. Wore them all day with no issues.,2024,12,December,199.99,Positive
+CUST1011,2023-08-05,Powerbeats Pro,249.99,4,55+,Non-Binary,Asia Pacific,In-Store,Best purchase I've made this year. Bass is deep and clear.,2023,8,August,249.99,Positive
+CUST1012,2023-05-27,Beats Flex,49.99,4,35-44,Male,Europe,Apple Store,Seamless connection with my iPhone. Switching devices is effortless.,2023,5,May,49.99,Positive
+CUST1013,2024-01-06,Beats Flex,49.99,4,25-34,Male,Middle East,Third-Party Retailer,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,1,January,49.99,Positive
+CUST1014,2023-06-06,Beats Studio Pro,349.99,5,25-34,Non-Binary,Latin America,Online,Best purchase I've made this year. Bass is deep and clear.,2023,6,June,349.99,Positive
+CUST1015,2024-06-25,Beats Solo 4,199.99,4,35-44,Non-Binary,North America,Online,Seamless connection with my iPhone. Switching devices is effortless.,2024,6,June,199.99,Positive
+CUST1016,2024-10-18,Beats Flex,49.99,5,35-44,Male,Asia Pacific,Third-Party Retailer,The fit is perfect and they're super comfortable for long sessions.,2024,10,October,49.99,Positive
+CUST1017,2024-05-27,Beats Fit Pro,199.99,4,25-34,Non-Binary,North America,Apple Store,The fit is perfect and they're super comfortable for long sessions.,2024,5,May,199.99,Positive
+CUST1018,2023-06-06,Beats Flex,49.99,4,35-44,Male,Middle East,Online,Battery life is outstanding. Wore them all day with no issues.,2023,6,June,49.99,Positive
+CUST1019,2023-04-25,Beats Studio Buds+,169.99,4,35-44,Female,Europe,Online,Absolutely love these headphones! The sound quality is incredible.,2023,4,April,169.99,Positive
+CUST1020,2023-03-29,Beats Fit Pro,199.99,5,45-54,Male,Middle East,In-Store,Best purchase I've made this year. Bass is deep and clear.,2023,3,March,199.99,Positive
+CUST1021,2023-09-29,Beats Fit Pro,199.99,5,55+,Non-Binary,Latin America,In-Store,Premium feel and amazing noise cancellation. Worth every penny.,2023,9,September,199.99,Positive
+CUST1022,2024-12-31,Beats Studio Buds+,169.99,5,35-44,Female,Asia Pacific,Third-Party Retailer,Battery life is outstanding. Wore them all day with no issues.,2024,12,December,169.99,Positive
+CUST1023,2023-08-19,Beats Studio Buds+,169.99,4,18-24,Female,North America,In-Store,Battery life is outstanding. Wore them all day with no issues.,2023,8,August,169.99,Positive
+CUST1024,2024-12-25,Beats Studio Buds+,169.99,3,18-24,Male,North America,Online,Decent headphones for the price. Nothing groundbreaking but solid.,2024,12,December,169.99,Neutral
+CUST1025,2023-10-13,Powerbeats Pro,249.99,2,45-54,Male,Middle East,In-Store,Noise cancellation is underwhelming compared to competitors.,2023,10,October,249.99,Negative
+CUST1026,2023-09-06,Beats Flex,49.99,5,45-54,Female,Europe,Online,Seamless connection with my iPhone. Switching devices is effortless.,2023,9,September,49.99,Positive
+CUST1027,2024-03-09,Beats Studio Pro,349.99,5,45-54,Female,North America,Online,Incredible sound stage. Music feels alive with these on.,2024,3,March,349.99,Positive
+CUST1028,2023-04-22,Beats Studio Pro,349.99,4,25-34,Male,Europe,Third-Party Retailer,Incredible sound stage. Music feels alive with these on.,2023,4,April,349.99,Positive
+CUST1029,2024-04-18,Beats Fit Pro,199.99,4,25-34,Male,Latin America,Online,The fit is perfect and they're super comfortable for long sessions.,2024,4,April,199.99,Positive
+CUST1030,2023-04-06,Beats Studio Pro,349.99,5,25-34,Male,Latin America,Third-Party Retailer,Absolutely love these headphones! The sound quality is incredible.,2023,4,April,349.99,Positive
+CUST1031,2023-03-02,Beats Solo 4,199.99,3,25-34,Female,North America,Third-Party Retailer,Good for everyday use. Not the best for professional audio work.,2023,3,March,199.99,Neutral
+CUST1032,2023-10-20,Powerbeats Pro,249.99,5,45-54,Non-Binary,Middle East,Third-Party Retailer,Seamless connection with my iPhone. Switching devices is effortless.,2023,10,October,249.99,Positive
+CUST1033,2023-03-01,Beats Fit Pro,199.99,3,55+,Non-Binary,Middle East,Online,Sound is good but I expected a bit more bass at this price point.,2023,3,March,199.99,Neutral
+CUST1034,2024-08-21,Beats Flex,49.99,4,45-54,Non-Binary,Middle East,In-Store,Absolutely love these headphones! The sound quality is incredible.,2024,8,August,49.99,Positive
+CUST1035,2023-07-10,Beats Studio Pro,349.99,5,18-24,Non-Binary,North America,In-Store,Best purchase I've made this year. Bass is deep and clear.,2023,7,July,349.99,Positive
+CUST1036,2023-09-10,Beats Solo 4,199.99,2,55+,Non-Binary,North America,Online,Customer support was unhelpful when I had a problem with my order.,2023,9,September,199.99,Negative
+CUST1037,2023-09-25,Beats Solo 4,199.99,5,25-34,Non-Binary,Asia Pacific,In-Store,Incredible sound stage. Music feels alive with these on.,2023,9,September,199.99,Positive
+CUST1038,2024-04-13,Powerbeats Pro,249.99,4,35-44,Male,North America,Third-Party Retailer,The fit is perfect and they're super comfortable for long sessions.,2024,4,April,249.99,Positive
+CUST1039,2023-03-17,Beats Studio Buds+,169.99,5,55+,Male,Middle East,Apple Store,Best purchase I've made this year. Bass is deep and clear.,2023,3,March,169.99,Positive
+CUST1040,2023-09-08,Beats Fit Pro,199.99,5,35-44,Female,Europe,Third-Party Retailer,Best purchase I've made this year. Bass is deep and clear.,2023,9,September,199.99,Positive
+CUST1041,2024-11-14,Beats Studio Buds+,169.99,5,55+,Female,North America,In-Store,Absolutely love these headphones! The sound quality is incredible.,2024,11,November,169.99,Positive
+CUST1042,2024-07-20,Powerbeats Pro,249.99,2,25-34,Female,Asia Pacific,In-Store,Disappointed with the build quality. Feels cheap for the price.,2024,7,July,249.99,Negative
+CUST1043,2024-06-01,Beats Flex,49.99,4,45-54,Female,North America,Online,The fit is perfect and they're super comfortable for long sessions.,2024,6,June,49.99,Positive
+CUST1044,2023-02-15,Beats Flex,49.99,4,18-24,Female,Europe,Apple Store,The fit is perfect and they're super comfortable for long sessions.,2023,2,February,49.99,Positive
+CUST1045,2024-07-28,Beats Fit Pro,199.99,5,18-24,Male,North America,In-Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,7,July,199.99,Positive
+CUST1046,2024-08-19,Beats Studio Buds+,169.99,1,55+,Male,Latin America,In-Store,Had connectivity issues from day one. Very frustrating experience.,2024,8,August,169.99,Negative
+CUST1047,2024-01-02,Beats Studio Pro,349.99,4,25-34,Non-Binary,Europe,Online,Absolutely love these headphones! The sound quality is incredible.,2024,1,January,349.99,Positive
+CUST1048,2024-09-27,Powerbeats Pro,249.99,5,25-34,Male,Europe,In-Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,9,September,249.99,Positive
+CUST1049,2023-12-07,Beats Solo 4,199.99,1,45-54,Non-Binary,Europe,Apple Store,Battery drains faster than advertised. Expected better performance.,2023,12,December,199.99,Negative
+CUST1050,2024-01-27,Beats Fit Pro,199.99,5,18-24,Female,Europe,In-Store,Best purchase I've made this year. Bass is deep and clear.,2024,1,January,199.99,Positive
+CUST1051,2023-08-17,Beats Solo 4,199.99,4,18-24,Non-Binary,Europe,Third-Party Retailer,Battery life is outstanding. Wore them all day with no issues.,2023,8,August,199.99,Positive
+CUST1052,2023-10-13,Powerbeats Pro,249.99,3,35-44,Non-Binary,Middle East,Third-Party Retailer,Decent headphones for the price. Nothing groundbreaking but solid.,2023,10,October,249.99,Neutral
+CUST1053,2023-01-29,Beats Flex,49.99,5,18-24,Female,Europe,Apple Store,Incredible sound stage. Music feels alive with these on.,2023,1,January,49.99,Positive
+CUST1054,2023-12-20,Beats Studio Pro,349.99,2,35-44,Female,Middle East,Online,Returned after a week. The bass is too overpowering for my taste.,2023,12,December,349.99,Negative
+CUST1055,2023-09-18,Beats Solo 4,199.99,5,18-24,Non-Binary,Latin America,Online,Battery life is outstanding. Wore them all day with no issues.,2023,9,September,199.99,Positive
+CUST1056,2024-01-08,Beats Studio Buds+,169.99,5,45-54,Male,Asia Pacific,Apple Store,Battery life is outstanding. Wore them all day with no issues.,2024,1,January,169.99,Positive
+CUST1057,2024-06-03,Beats Flex,49.99,5,35-44,Non-Binary,Latin America,Apple Store,The fit is perfect and they're super comfortable for long sessions.,2024,6,June,49.99,Positive
+CUST1058,2023-07-16,Beats Solo 4,199.99,5,45-54,Non-Binary,Latin America,In-Store,Premium feel and amazing noise cancellation. Worth every penny.,2023,7,July,199.99,Positive
+CUST1059,2024-07-15,Beats Studio Buds+,169.99,4,18-24,Female,Asia Pacific,In-Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,7,July,169.99,Positive
+CUST1060,2024-04-21,Beats Solo 4,199.99,5,45-54,Female,Europe,Third-Party Retailer,Incredible sound stage. Music feels alive with these on.,2024,4,April,199.99,Positive
+CUST1061,2023-10-18,Beats Flex,49.99,3,55+,Non-Binary,Middle East,Apple Store,Decent headphones for the price. Nothing groundbreaking but solid.,2023,10,October,49.99,Neutral
+CUST1062,2024-11-19,Beats Studio Pro,349.99,5,35-44,Male,Europe,In-Store,Battery life is outstanding. Wore them all day with no issues.,2024,11,November,349.99,Positive
+CUST1063,2024-09-17,Beats Studio Pro,349.99,1,18-24,Female,Latin America,In-Store,Returned after a week. The bass is too overpowering for my taste.,2024,9,September,349.99,Negative
+CUST1064,2024-02-14,Beats Flex,49.99,5,25-34,Male,North America,Online,Seamless connection with my iPhone. Switching devices is effortless.,2024,2,February,49.99,Positive
+CUST1065,2024-06-14,Beats Solo 4,199.99,3,45-54,Male,Middle East,In-Store,Comfortable enough but the ear cushions get warm after an hour.,2024,6,June,199.99,Neutral
+CUST1066,2024-11-14,Beats Studio Pro,349.99,4,55+,Non-Binary,Middle East,Apple Store,Seamless connection with my iPhone. Switching devices is effortless.,2024,11,November,349.99,Positive
+CUST1067,2024-07-15,Beats Solo 4,199.99,4,45-54,Male,Latin America,Third-Party Retailer,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,7,July,199.99,Positive
+CUST1068,2024-06-17,Powerbeats Pro,249.99,5,45-54,Non-Binary,Europe,Apple Store,The fit is perfect and they're super comfortable for long sessions.,2024,6,June,249.99,Positive
+CUST1069,2023-08-29,Beats Solo 4,199.99,2,35-44,Female,Asia Pacific,Online,Had connectivity issues from day one. Very frustrating experience.,2023,8,August,199.99,Negative
+CUST1070,2024-12-11,Beats Fit Pro,199.99,3,25-34,Non-Binary,Europe,Online,Good for everyday use. Not the best for professional audio work.,2024,12,December,199.99,Neutral
+CUST1071,2024-03-01,Beats Solo 4,199.99,4,18-24,Male,Latin America,Third-Party Retailer,Seamless connection with my iPhone. Switching devices is effortless.,2024,3,March,199.99,Positive
+CUST1072,2024-08-12,Beats Studio Buds+,169.99,5,45-54,Female,North America,Apple Store,Absolutely love these headphones! The sound quality is incredible.,2024,8,August,169.99,Positive
+CUST1073,2024-07-05,Powerbeats Pro,249.99,5,55+,Non-Binary,Europe,Third-Party Retailer,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,7,July,249.99,Positive
+CUST1074,2023-01-30,Beats Fit Pro,199.99,3,45-54,Female,Latin America,In-Store,Good for everyday use. Not the best for professional audio work.,2023,1,January,199.99,Neutral
+CUST1075,2024-02-08,Beats Solo 4,199.99,5,55+,Non-Binary,North America,Online,Absolutely love these headphones! The sound quality is incredible.,2024,2,February,199.99,Positive
+CUST1076,2023-07-06,Beats Flex,49.99,4,18-24,Female,Latin America,Apple Store,Seamless connection with my iPhone. Switching devices is effortless.,2023,7,July,49.99,Positive
+CUST1077,2024-01-24,Beats Fit Pro,199.99,4,35-44,Female,Asia Pacific,Online,Incredible sound stage. Music feels alive with these on.,2024,1,January,199.99,Positive
+CUST1078,2023-02-23,Beats Solo 4,199.99,1,35-44,Male,North America,Online,Customer support was unhelpful when I had a problem with my order.,2023,2,February,199.99,Negative
+CUST1079,2023-01-21,Beats Studio Pro,349.99,5,55+,Male,Europe,In-Store,Battery life is outstanding. Wore them all day with no issues.,2023,1,January,349.99,Positive
+CUST1080,2024-04-21,Beats Solo 4,199.99,5,35-44,Female,Europe,Online,Battery life is outstanding. Wore them all day with no issues.,2024,4,April,199.99,Positive
+CUST1081,2024-08-15,Beats Fit Pro,199.99,5,18-24,Female,Middle East,Third-Party Retailer,Best purchase I've made this year. Bass is deep and clear.,2024,8,August,199.99,Positive
+CUST1082,2023-03-19,Beats Solo 4,199.99,5,55+,Non-Binary,Europe,Online,Battery life is outstanding. Wore them all day with no issues.,2023,3,March,199.99,Positive
+CUST1083,2024-08-02,Beats Flex,49.99,5,18-24,Female,Middle East,Third-Party Retailer,Best purchase I've made this year. Bass is deep and clear.,2024,8,August,49.99,Positive
+CUST1084,2023-01-13,Beats Flex,49.99,4,45-54,Female,North America,Third-Party Retailer,Incredible sound stage. Music feels alive with these on.,2023,1,January,49.99,Positive
+CUST1085,2024-12-25,Powerbeats Pro,249.99,5,25-34,Female,Europe,Apple Store,Seamless connection with my iPhone. Switching devices is effortless.,2024,12,December,249.99,Positive
+CUST1086,2024-04-21,Beats Studio Buds+,169.99,5,45-54,Non-Binary,Middle East,Apple Store,Seamless connection with my iPhone. Switching devices is effortless.,2024,4,April,169.99,Positive
+CUST1087,2023-10-13,Powerbeats Pro,249.99,5,45-54,Male,Latin America,Third-Party Retailer,Best purchase I've made this year. Bass is deep and clear.,2023,10,October,249.99,Positive
+CUST1088,2023-07-06,Powerbeats Pro,249.99,1,45-54,Male,Asia Pacific,Apple Store,Had connectivity issues from day one. Very frustrating experience.,2023,7,July,249.99,Negative
+CUST1089,2024-12-19,Powerbeats Pro,249.99,3,35-44,Non-Binary,North America,In-Store,Average noise cancellation. Works fine in mild environments.,2024,12,December,249.99,Neutral
+CUST1090,2024-05-15,Beats Studio Pro,349.99,3,55+,Male,Latin America,Third-Party Retailer,Good for everyday use. Not the best for professional audio work.,2024,5,May,349.99,Neutral
+CUST1091,2023-10-29,Beats Solo 4,199.99,5,25-34,Female,Europe,Apple Store,Best purchase I've made this year. Bass is deep and clear.,2023,10,October,199.99,Positive
+CUST1092,2024-07-20,Beats Flex,49.99,4,55+,Female,Latin America,Apple Store,Seamless connection with my iPhone. Switching devices is effortless.,2024,7,July,49.99,Positive
+CUST1093,2023-11-10,Powerbeats Pro,249.99,5,35-44,Male,North America,In-Store,The fit is perfect and they're super comfortable for long sessions.,2023,11,November,249.99,Positive
+CUST1094,2024-12-07,Powerbeats Pro,249.99,2,25-34,Male,Europe,Third-Party Retailer,Customer support was unhelpful when I had a problem with my order.,2024,12,December,249.99,Negative
+CUST1095,2023-04-13,Powerbeats Pro,249.99,5,25-34,Female,Europe,Apple Store,The fit is perfect and they're super comfortable for long sessions.,2023,4,April,249.99,Positive
+CUST1096,2023-10-08,Beats Fit Pro,199.99,4,18-24,Male,Middle East,Apple Store,Premium feel and amazing noise cancellation. Worth every penny.,2023,10,October,199.99,Positive
+CUST1097,2023-04-16,Beats Flex,49.99,5,18-24,Non-Binary,Asia Pacific,Third-Party Retailer,Seamless connection with my iPhone. Switching devices is effortless.,2023,4,April,49.99,Positive
+CUST1098,2023-02-22,Beats Solo 4,199.99,4,35-44,Female,North America,Online,Premium feel and amazing noise cancellation. Worth every penny.,2023,2,February,199.99,Positive
+CUST1099,2023-06-05,Beats Solo 4,199.99,4,25-34,Non-Binary,Asia Pacific,Online,Absolutely love these headphones! The sound quality is incredible.,2023,6,June,199.99,Positive
+CUST1100,2024-09-12,Beats Fit Pro,199.99,2,55+,Non-Binary,Europe,Third-Party Retailer,Returned after a week. The bass is too overpowering for my taste.,2024,9,September,199.99,Negative
+CUST1101,2024-08-25,Beats Solo 4,199.99,5,45-54,Female,Middle East,Online,The fit is perfect and they're super comfortable for long sessions.,2024,8,August,199.99,Positive
+CUST1102,2023-08-01,Beats Studio Buds+,169.99,5,25-34,Female,North America,In-Store,Best purchase I've made this year. Bass is deep and clear.,2023,8,August,169.99,Positive
+CUST1103,2023-06-10,Beats Fit Pro,199.99,3,18-24,Female,Latin America,Third-Party Retailer,Decent headphones for the price. Nothing groundbreaking but solid.,2023,6,June,199.99,Neutral
+CUST1104,2024-12-24,Powerbeats Pro,249.99,1,35-44,Non-Binary,Latin America,Online,Had connectivity issues from day one. Very frustrating experience.,2024,12,December,249.99,Negative
+CUST1105,2024-10-02,Beats Flex,49.99,3,55+,Non-Binary,Europe,Third-Party Retailer,Build quality feels okay. The case could be better designed.,2024,10,October,49.99,Neutral
+CUST1106,2023-09-30,Beats Studio Pro,349.99,4,25-34,Male,North America,In-Store,Premium feel and amazing noise cancellation. Worth every penny.,2023,9,September,349.99,Positive
+CUST1107,2024-03-25,Powerbeats Pro,249.99,4,18-24,Female,Asia Pacific,Third-Party Retailer,The fit is perfect and they're super comfortable for long sessions.,2024,3,March,249.99,Positive
+CUST1108,2024-03-24,Powerbeats Pro,249.99,4,18-24,Non-Binary,North America,Third-Party Retailer,Seamless connection with my iPhone. Switching devices is effortless.,2024,3,March,249.99,Positive
+CUST1109,2023-01-27,Beats Flex,49.99,4,18-24,Male,Middle East,Online,The fit is perfect and they're super comfortable for long sessions.,2023,1,January,49.99,Positive
+CUST1110,2023-06-29,Beats Flex,49.99,5,45-54,Non-Binary,Latin America,Apple Store,Absolutely love these headphones! The sound quality is incredible.,2023,6,June,49.99,Positive
+CUST1111,2024-10-12,Beats Fit Pro,199.99,5,45-54,Male,Latin America,Apple Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,10,October,199.99,Positive
+CUST1112,2023-06-14,Beats Solo 4,199.99,4,35-44,Female,Latin America,Apple Store,Best purchase I've made this year. Bass is deep and clear.,2023,6,June,199.99,Positive
+CUST1113,2024-04-10,Beats Flex,49.99,5,18-24,Female,Asia Pacific,Apple Store,Absolutely love these headphones! The sound quality is incredible.,2024,4,April,49.99,Positive
+CUST1114,2024-06-10,Beats Studio Pro,349.99,5,18-24,Non-Binary,Middle East,Third-Party Retailer,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,6,June,349.99,Positive
+CUST1115,2024-01-06,Beats Solo 4,199.99,2,55+,Female,Latin America,Online,Customer support was unhelpful when I had a problem with my order.,2024,1,January,199.99,Negative
+CUST1116,2023-10-22,Beats Fit Pro,199.99,3,45-54,Non-Binary,Latin America,Online,Sound is good but I expected a bit more bass at this price point.,2023,10,October,199.99,Neutral
+CUST1117,2024-12-27,Beats Studio Pro,349.99,5,25-34,Female,Middle East,Online,Battery life is outstanding. Wore them all day with no issues.,2024,12,December,349.99,Positive
+CUST1118,2023-04-27,Beats Studio Buds+,169.99,4,45-54,Male,Europe,Third-Party Retailer,Battery life is outstanding. Wore them all day with no issues.,2023,4,April,169.99,Positive
+CUST1119,2024-03-01,Beats Flex,49.99,4,45-54,Female,Europe,Third-Party Retailer,The fit is perfect and they're super comfortable for long sessions.,2024,3,March,49.99,Positive
+CUST1120,2024-09-05,Beats Studio Buds+,169.99,3,55+,Non-Binary,Europe,Online,Sound is good but I expected a bit more bass at this price point.,2024,9,September,169.99,Neutral
+CUST1121,2023-12-15,Powerbeats Pro,249.99,5,55+,Female,North America,Apple Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2023,12,December,249.99,Positive
+CUST1122,2023-06-02,Beats Flex,49.99,4,45-54,Non-Binary,Latin America,Apple Store,Seamless connection with my iPhone. Switching devices is effortless.,2023,6,June,49.99,Positive
+CUST1123,2024-04-11,Powerbeats Pro,249.99,4,35-44,Male,Europe,Third-Party Retailer,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,4,April,249.99,Positive
+CUST1124,2023-02-14,Beats Fit Pro,199.99,5,35-44,Non-Binary,Latin America,Third-Party Retailer,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2023,2,February,199.99,Positive
+CUST1125,2024-05-22,Beats Solo 4,199.99,5,18-24,Male,Middle East,Apple Store,Premium feel and amazing noise cancellation. Worth every penny.,2024,5,May,199.99,Positive
+CUST1126,2023-04-13,Beats Studio Pro,349.99,5,55+,Female,North America,In-Store,Seamless connection with my iPhone. Switching devices is effortless.,2023,4,April,349.99,Positive
+CUST1127,2023-03-18,Beats Solo 4,199.99,5,45-54,Female,Asia Pacific,Third-Party Retailer,Premium feel and amazing noise cancellation. Worth every penny.,2023,3,March,199.99,Positive
+CUST1128,2024-11-21,Beats Flex,49.99,2,55+,Female,Asia Pacific,Third-Party Retailer,Had connectivity issues from day one. Very frustrating experience.,2024,11,November,49.99,Negative
+CUST1129,2023-08-29,Beats Studio Buds+,169.99,1,35-44,Male,North America,Third-Party Retailer,Disappointed with the build quality. Feels cheap for the price.,2023,8,August,169.99,Negative
+CUST1130,2024-03-30,Beats Studio Pro,349.99,5,25-34,Non-Binary,Asia Pacific,Online,Best purchase I've made this year. Bass is deep and clear.,2024,3,March,349.99,Positive
+CUST1131,2023-10-28,Beats Studio Pro,349.99,4,35-44,Female,Latin America,In-Store,Absolutely love these headphones! The sound quality is incredible.,2023,10,October,349.99,Positive
+CUST1132,2023-06-24,Beats Fit Pro,199.99,4,25-34,Male,Middle East,Third-Party Retailer,Premium feel and amazing noise cancellation. Worth every penny.,2023,6,June,199.99,Positive
+CUST1133,2024-08-20,Beats Studio Buds+,169.99,5,25-34,Male,Latin America,Apple Store,Seamless connection with my iPhone. Switching devices is effortless.,2024,8,August,169.99,Positive
+CUST1134,2024-04-21,Beats Solo 4,199.99,3,35-44,Non-Binary,Middle East,In-Store,Decent headphones for the price. Nothing groundbreaking but solid.,2024,4,April,199.99,Neutral
+CUST1135,2024-08-24,Beats Studio Pro,349.99,4,35-44,Non-Binary,Latin America,Apple Store,Incredible sound stage. Music feels alive with these on.,2024,8,August,349.99,Positive
+CUST1136,2024-01-29,Beats Solo 4,199.99,5,45-54,Male,Europe,Third-Party Retailer,Battery life is outstanding. Wore them all day with no issues.,2024,1,January,199.99,Positive
+CUST1137,2024-12-17,Beats Studio Buds+,169.99,4,35-44,Male,Latin America,Apple Store,The fit is perfect and they're super comfortable for long sessions.,2024,12,December,169.99,Positive
+CUST1138,2024-09-12,Beats Studio Pro,349.99,4,45-54,Female,Europe,Apple Store,Absolutely love these headphones! The sound quality is incredible.,2024,9,September,349.99,Positive
+CUST1139,2024-11-25,Beats Fit Pro,199.99,5,25-34,Non-Binary,North America,Online,The fit is perfect and they're super comfortable for long sessions.,2024,11,November,199.99,Positive
+CUST1140,2024-08-16,Powerbeats Pro,249.99,5,35-44,Non-Binary,Europe,Online,Absolutely love these headphones! The sound quality is incredible.,2024,8,August,249.99,Positive
+CUST1141,2023-06-29,Powerbeats Pro,249.99,4,25-34,Male,Middle East,Apple Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2023,6,June,249.99,Positive
+CUST1142,2023-06-18,Beats Studio Buds+,169.99,4,35-44,Female,Asia Pacific,Apple Store,The fit is perfect and they're super comfortable for long sessions.,2023,6,June,169.99,Positive
+CUST1143,2023-05-25,Beats Studio Pro,349.99,4,25-34,Non-Binary,Latin America,Apple Store,Best purchase I've made this year. Bass is deep and clear.,2023,5,May,349.99,Positive
+CUST1144,2023-09-28,Beats Studio Pro,349.99,5,55+,Male,Latin America,Apple Store,Absolutely love these headphones! The sound quality is incredible.,2023,9,September,349.99,Positive
+CUST1145,2024-08-21,Beats Flex,49.99,5,45-54,Non-Binary,Asia Pacific,Online,The fit is perfect and they're super comfortable for long sessions.,2024,8,August,49.99,Positive
+CUST1146,2024-09-26,Beats Flex,49.99,3,55+,Female,Middle East,In-Store,Decent headphones for the price. Nothing groundbreaking but solid.,2024,9,September,49.99,Neutral
+CUST1147,2024-12-18,Beats Flex,49.99,2,35-44,Non-Binary,Latin America,Online,Returned after a week. The bass is too overpowering for my taste.,2024,12,December,49.99,Negative
+CUST1148,2023-11-08,Beats Fit Pro,199.99,1,45-54,Male,North America,In-Store,Disappointed with the build quality. Feels cheap for the price.,2023,11,November,199.99,Negative
+CUST1149,2024-01-15,Beats Studio Buds+,169.99,3,55+,Female,Middle East,In-Store,Good for everyday use. Not the best for professional audio work.,2024,1,January,169.99,Neutral
+CUST1150,2024-09-22,Beats Solo 4,199.99,5,45-54,Female,North America,Apple Store,Seamless connection with my iPhone. Switching devices is effortless.,2024,9,September,199.99,Positive
+CUST1151,2024-01-07,Beats Fit Pro,199.99,4,18-24,Non-Binary,Asia Pacific,Apple Store,Battery life is outstanding. Wore them all day with no issues.,2024,1,January,199.99,Positive
+CUST1152,2023-05-06,Beats Studio Pro,349.99,4,45-54,Male,Europe,Online,Battery life is outstanding. Wore them all day with no issues.,2023,5,May,349.99,Positive
+CUST1153,2023-05-09,Beats Studio Pro,349.99,5,55+,Male,North America,In-Store,Battery life is outstanding. Wore them all day with no issues.,2023,5,May,349.99,Positive
+CUST1154,2023-12-03,Beats Studio Buds+,169.99,3,25-34,Non-Binary,North America,Apple Store,Sound is good but I expected a bit more bass at this price point.,2023,12,December,169.99,Neutral
+CUST1155,2023-06-28,Beats Fit Pro,199.99,5,18-24,Non-Binary,North America,In-Store,The fit is perfect and they're super comfortable for long sessions.,2023,6,June,199.99,Positive
+CUST1156,2024-08-25,Beats Studio Pro,349.99,4,35-44,Male,Europe,Apple Store,Battery life is outstanding. Wore them all day with no issues.,2024,8,August,349.99,Positive
+CUST1157,2024-06-22,Beats Studio Pro,349.99,2,18-24,Non-Binary,North America,Third-Party Retailer,Returned after a week. The bass is too overpowering for my taste.,2024,6,June,349.99,Negative
+CUST1158,2024-04-07,Beats Solo 4,199.99,5,55+,Male,Middle East,Online,Best purchase I've made this year. Bass is deep and clear.,2024,4,April,199.99,Positive
+CUST1159,2024-04-14,Beats Flex,49.99,5,18-24,Male,Latin America,Third-Party Retailer,The fit is perfect and they're super comfortable for long sessions.,2024,4,April,49.99,Positive
+CUST1160,2024-12-30,Beats Solo 4,199.99,5,45-54,Male,North America,Apple Store,Seamless connection with my iPhone. Switching devices is effortless.,2024,12,December,199.99,Positive
+CUST1161,2023-10-09,Beats Studio Buds+,169.99,3,55+,Non-Binary,Middle East,Apple Store,Sound is good but I expected a bit more bass at this price point.,2023,10,October,169.99,Neutral
+CUST1162,2024-04-09,Beats Solo 4,199.99,5,55+,Non-Binary,Latin America,Online,The fit is perfect and they're super comfortable for long sessions.,2024,4,April,199.99,Positive
+CUST1163,2024-10-28,Beats Flex,49.99,2,55+,Non-Binary,Europe,Third-Party Retailer,Battery drains faster than advertised. Expected better performance.,2024,10,October,49.99,Negative
+CUST1164,2023-12-14,Beats Solo 4,199.99,5,45-54,Female,Latin America,Online,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2023,12,December,199.99,Positive
+CUST1165,2024-01-19,Powerbeats Pro,249.99,4,25-34,Non-Binary,Latin America,Online,The fit is perfect and they're super comfortable for long sessions.,2024,1,January,249.99,Positive
+CUST1166,2024-03-18,Beats Studio Pro,349.99,5,18-24,Non-Binary,Asia Pacific,In-Store,Best purchase I've made this year. Bass is deep and clear.,2024,3,March,349.99,Positive
+CUST1167,2024-07-29,Beats Studio Buds+,169.99,2,35-44,Non-Binary,North America,Third-Party Retailer,Customer support was unhelpful when I had a problem with my order.,2024,7,July,169.99,Negative
+CUST1168,2023-02-22,Powerbeats Pro,249.99,5,35-44,Non-Binary,Asia Pacific,Apple Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2023,2,February,249.99,Positive
+CUST1169,2023-06-08,Beats Studio Pro,349.99,4,45-54,Male,North America,Apple Store,Battery life is outstanding. Wore them all day with no issues.,2023,6,June,349.99,Positive
+CUST1170,2024-08-10,Beats Studio Buds+,169.99,4,25-34,Female,Middle East,Online,The fit is perfect and they're super comfortable for long sessions.,2024,8,August,169.99,Positive
+CUST1171,2023-01-30,Beats Studio Buds+,169.99,5,25-34,Female,Asia Pacific,Apple Store,The fit is perfect and they're super comfortable for long sessions.,2023,1,January,169.99,Positive
+CUST1172,2024-08-02,Powerbeats Pro,249.99,1,45-54,Male,Europe,Online,Noise cancellation is underwhelming compared to competitors.,2024,8,August,249.99,Negative
+CUST1173,2024-01-21,Beats Studio Pro,349.99,5,45-54,Female,Asia Pacific,In-Store,Battery life is outstanding. Wore them all day with no issues.,2024,1,January,349.99,Positive
+CUST1174,2024-08-04,Powerbeats Pro,249.99,4,55+,Male,North America,In-Store,Incredible sound stage. Music feels alive with these on.,2024,8,August,249.99,Positive
+CUST1175,2024-11-21,Beats Fit Pro,199.99,5,18-24,Female,Latin America,Third-Party Retailer,Absolutely love these headphones! The sound quality is incredible.,2024,11,November,199.99,Positive
+CUST1176,2023-10-07,Beats Solo 4,199.99,4,25-34,Non-Binary,North America,Apple Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2023,10,October,199.99,Positive
+CUST1177,2024-11-25,Beats Solo 4,199.99,2,55+,Female,Middle East,Apple Store,Battery drains faster than advertised. Expected better performance.,2024,11,November,199.99,Negative
+CUST1178,2023-02-26,Beats Studio Pro,349.99,3,18-24,Male,Asia Pacific,In-Store,Average noise cancellation. Works fine in mild environments.,2023,2,February,349.99,Neutral
+CUST1179,2023-12-02,Beats Fit Pro,199.99,5,18-24,Male,Latin America,Third-Party Retailer,The fit is perfect and they're super comfortable for long sessions.,2023,12,December,199.99,Positive
+CUST1180,2024-12-21,Beats Fit Pro,199.99,2,25-34,Non-Binary,Middle East,Apple Store,Customer support was unhelpful when I had a problem with my order.,2024,12,December,199.99,Negative
+CUST1181,2024-03-22,Beats Studio Pro,349.99,4,18-24,Female,North America,Apple Store,Absolutely love these headphones! The sound quality is incredible.,2024,3,March,349.99,Positive
+CUST1182,2024-12-27,Beats Studio Buds+,169.99,4,45-54,Female,North America,Third-Party Retailer,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,12,December,169.99,Positive
+CUST1183,2024-09-24,Beats Studio Pro,349.99,5,45-54,Non-Binary,Asia Pacific,Online,Premium feel and amazing noise cancellation. Worth every penny.,2024,9,September,349.99,Positive
+CUST1184,2024-03-22,Beats Solo 4,199.99,5,55+,Female,Middle East,Online,Battery life is outstanding. Wore them all day with no issues.,2024,3,March,199.99,Positive
+CUST1185,2023-08-15,Beats Solo 4,199.99,5,35-44,Male,North America,Online,Incredible sound stage. Music feels alive with these on.,2023,8,August,199.99,Positive
+CUST1186,2023-12-26,Beats Studio Buds+,169.99,4,25-34,Male,North America,In-Store,Incredible sound stage. Music feels alive with these on.,2023,12,December,169.99,Positive
+CUST1187,2023-06-06,Powerbeats Pro,249.99,3,18-24,Male,Latin America,Third-Party Retailer,Average noise cancellation. Works fine in mild environments.,2023,6,June,249.99,Neutral
+CUST1188,2024-11-28,Beats Studio Buds+,169.99,5,55+,Non-Binary,Middle East,Apple Store,Seamless connection with my iPhone. Switching devices is effortless.,2024,11,November,169.99,Positive
+CUST1189,2023-03-11,Beats Flex,49.99,4,45-54,Female,Asia Pacific,Apple Store,Seamless connection with my iPhone. Switching devices is effortless.,2023,3,March,49.99,Positive
+CUST1190,2023-03-17,Beats Studio Buds+,169.99,2,35-44,Female,Latin America,Online,Customer support was unhelpful when I had a problem with my order.,2023,3,March,169.99,Negative
+CUST1191,2023-03-20,Beats Studio Pro,349.99,4,18-24,Non-Binary,Middle East,Third-Party Retailer,The fit is perfect and they're super comfortable for long sessions.,2023,3,March,349.99,Positive
+CUST1192,2024-04-05,Beats Solo 4,199.99,4,55+,Non-Binary,Europe,Apple Store,Absolutely love these headphones! The sound quality is incredible.,2024,4,April,199.99,Positive
+CUST1193,2023-03-05,Beats Studio Buds+,169.99,4,45-54,Male,Asia Pacific,Online,Premium feel and amazing noise cancellation. Worth every penny.,2023,3,March,169.99,Positive
+CUST1194,2023-09-11,Beats Studio Buds+,169.99,5,45-54,Female,Middle East,In-Store,Absolutely love these headphones! The sound quality is incredible.,2023,9,September,169.99,Positive
+CUST1195,2024-02-01,Powerbeats Pro,249.99,4,45-54,Female,Middle East,Online,The fit is perfect and they're super comfortable for long sessions.,2024,2,February,249.99,Positive
+CUST1196,2023-12-04,Beats Flex,49.99,5,18-24,Non-Binary,Latin America,Apple Store,Best purchase I've made this year. Bass is deep and clear.,2023,12,December,49.99,Positive
+CUST1197,2023-12-08,Powerbeats Pro,249.99,5,18-24,Non-Binary,Europe,Apple Store,Premium feel and amazing noise cancellation. Worth every penny.,2023,12,December,249.99,Positive
+CUST1198,2023-05-13,Powerbeats Pro,249.99,5,55+,Non-Binary,North America,Apple Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2023,5,May,249.99,Positive
+CUST1199,2023-05-11,Beats Studio Buds+,169.99,4,55+,Male,Latin America,Apple Store,Incredible sound stage. Music feels alive with these on.,2023,5,May,169.99,Positive
+CUST1200,2023-08-08,Beats Studio Pro,349.99,4,35-44,Female,Europe,In-Store,Premium feel and amazing noise cancellation. Worth every penny.,2023,8,August,349.99,Positive
+CUST1201,2023-04-14,Beats Fit Pro,199.99,3,55+,Non-Binary,Middle East,Online,Build quality feels okay. The case could be better designed.,2023,4,April,199.99,Neutral
+CUST1202,2024-09-03,Beats Flex,49.99,4,45-54,Male,Europe,In-Store,Premium feel and amazing noise cancellation. Worth every penny.,2024,9,September,49.99,Positive
+CUST1203,2024-03-24,Beats Flex,49.99,5,18-24,Female,Asia Pacific,In-Store,Premium feel and amazing noise cancellation. Worth every penny.,2024,3,March,49.99,Positive
+CUST1204,2023-08-28,Beats Solo 4,199.99,4,55+,Male,Asia Pacific,Third-Party Retailer,Seamless connection with my iPhone. Switching devices is effortless.,2023,8,August,199.99,Positive
+CUST1205,2024-04-17,Beats Fit Pro,199.99,4,35-44,Female,Middle East,Third-Party Retailer,Seamless connection with my iPhone. Switching devices is effortless.,2024,4,April,199.99,Positive
+CUST1206,2023-09-14,Beats Fit Pro,199.99,5,18-24,Non-Binary,Latin America,Apple Store,Premium feel and amazing noise cancellation. Worth every penny.,2023,9,September,199.99,Positive
+CUST1207,2023-10-19,Beats Studio Buds+,169.99,5,18-24,Male,Asia Pacific,Third-Party Retailer,Best purchase I've made this year. Bass is deep and clear.,2023,10,October,169.99,Positive
+CUST1208,2023-04-04,Beats Studio Buds+,169.99,3,25-34,Female,Asia Pacific,Online,Good for everyday use. Not the best for professional audio work.,2023,4,April,169.99,Neutral
+CUST1209,2024-01-18,Beats Solo 4,199.99,2,25-34,Female,North America,Apple Store,Customer support was unhelpful when I had a problem with my order.,2024,1,January,199.99,Negative
+CUST1210,2024-10-27,Beats Fit Pro,199.99,1,35-44,Male,Europe,Online,Disappointed with the build quality. Feels cheap for the price.,2024,10,October,199.99,Negative
+CUST1211,2024-12-13,Powerbeats Pro,249.99,5,25-34,Non-Binary,Latin America,Third-Party Retailer,Seamless connection with my iPhone. Switching devices is effortless.,2024,12,December,249.99,Positive
+CUST1212,2023-01-20,Beats Studio Buds+,169.99,1,35-44,Male,Europe,Third-Party Retailer,Disappointed with the build quality. Feels cheap for the price.,2023,1,January,169.99,Negative
+CUST1213,2023-11-05,Beats Studio Pro,349.99,5,18-24,Male,Europe,Third-Party Retailer,Battery life is outstanding. Wore them all day with no issues.,2023,11,November,349.99,Positive
+CUST1214,2023-03-06,Beats Flex,49.99,5,18-24,Female,Middle East,Online,Seamless connection with my iPhone. Switching devices is effortless.,2023,3,March,49.99,Positive
+CUST1215,2023-05-28,Beats Flex,49.99,4,35-44,Female,North America,Apple Store,Battery life is outstanding. Wore them all day with no issues.,2023,5,May,49.99,Positive
+CUST1216,2024-11-11,Beats Fit Pro,199.99,4,18-24,Non-Binary,Asia Pacific,Online,Premium feel and amazing noise cancellation. Worth every penny.,2024,11,November,199.99,Positive
+CUST1217,2024-02-04,Beats Studio Buds+,169.99,4,45-54,Male,Latin America,Apple Store,Absolutely love these headphones! The sound quality is incredible.,2024,2,February,169.99,Positive
+CUST1218,2023-03-11,Powerbeats Pro,249.99,5,35-44,Male,North America,Apple Store,Incredible sound stage. Music feels alive with these on.,2023,3,March,249.99,Positive
+CUST1219,2023-12-13,Beats Fit Pro,199.99,1,25-34,Non-Binary,Latin America,Third-Party Retailer,Customer support was unhelpful when I had a problem with my order.,2023,12,December,199.99,Negative
+CUST1220,2023-03-06,Beats Flex,49.99,3,45-54,Male,Asia Pacific,In-Store,Sound is good but I expected a bit more bass at this price point.,2023,3,March,49.99,Neutral
+CUST1221,2023-11-20,Beats Studio Pro,349.99,5,35-44,Non-Binary,Latin America,Third-Party Retailer,Absolutely love these headphones! The sound quality is incredible.,2023,11,November,349.99,Positive
+CUST1222,2023-07-15,Powerbeats Pro,249.99,1,35-44,Female,North America,Apple Store,Battery drains faster than advertised. Expected better performance.,2023,7,July,249.99,Negative
+CUST1223,2024-03-23,Powerbeats Pro,249.99,2,45-54,Non-Binary,Latin America,Third-Party Retailer,Had connectivity issues from day one. Very frustrating experience.,2024,3,March,249.99,Negative
+CUST1224,2024-12-09,Powerbeats Pro,249.99,5,45-54,Female,Middle East,Apple Store,Seamless connection with my iPhone. Switching devices is effortless.,2024,12,December,249.99,Positive
+CUST1225,2024-03-16,Beats Studio Pro,349.99,5,55+,Male,Middle East,Apple Store,Best purchase I've made this year. Bass is deep and clear.,2024,3,March,349.99,Positive
+CUST1226,2024-11-07,Powerbeats Pro,249.99,2,35-44,Female,Latin America,Third-Party Retailer,Had connectivity issues from day one. Very frustrating experience.,2024,11,November,249.99,Negative
+CUST1227,2024-04-02,Beats Fit Pro,199.99,5,18-24,Non-Binary,Asia Pacific,Third-Party Retailer,Incredible sound stage. Music feels alive with these on.,2024,4,April,199.99,Positive
+CUST1228,2023-03-18,Powerbeats Pro,249.99,5,45-54,Female,Middle East,In-Store,Absolutely love these headphones! The sound quality is incredible.,2023,3,March,249.99,Positive
+CUST1229,2024-11-25,Beats Studio Pro,349.99,3,45-54,Male,Europe,Online,Average noise cancellation. Works fine in mild environments.,2024,11,November,349.99,Neutral
+CUST1230,2024-01-06,Beats Fit Pro,199.99,5,45-54,Non-Binary,North America,In-Store,Incredible sound stage. Music feels alive with these on.,2024,1,January,199.99,Positive
+CUST1231,2024-01-16,Beats Flex,49.99,4,45-54,Male,Middle East,In-Store,Incredible sound stage. Music feels alive with these on.,2024,1,January,49.99,Positive
+CUST1232,2024-10-27,Beats Studio Buds+,169.99,4,35-44,Male,North America,Online,Incredible sound stage. Music feels alive with these on.,2024,10,October,169.99,Positive
+CUST1233,2024-02-01,Beats Flex,49.99,3,55+,Male,Asia Pacific,Apple Store,Average noise cancellation. Works fine in mild environments.,2024,2,February,49.99,Neutral
+CUST1234,2024-12-11,Beats Flex,49.99,4,45-54,Male,North America,In-Store,The fit is perfect and they're super comfortable for long sessions.,2024,12,December,49.99,Positive
+CUST1235,2023-03-31,Beats Studio Pro,349.99,4,35-44,Non-Binary,Asia Pacific,Online,Seamless connection with my iPhone. Switching devices is effortless.,2023,3,March,349.99,Positive
+CUST1236,2023-06-11,Beats Studio Buds+,169.99,4,25-34,Female,Middle East,In-Store,The fit is perfect and they're super comfortable for long sessions.,2023,6,June,169.99,Positive
+CUST1237,2023-08-31,Beats Studio Pro,349.99,5,45-54,Male,Asia Pacific,Apple Store,Premium feel and amazing noise cancellation. Worth every penny.,2023,8,August,349.99,Positive
+CUST1238,2024-09-18,Beats Solo 4,199.99,5,18-24,Male,Asia Pacific,Third-Party Retailer,Premium feel and amazing noise cancellation. Worth every penny.,2024,9,September,199.99,Positive
+CUST1239,2024-02-24,Beats Flex,49.99,5,55+,Male,Europe,Apple Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,2,February,49.99,Positive
+CUST1240,2024-11-27,Beats Flex,49.99,2,55+,Female,Europe,In-Store,Returned after a week. The bass is too overpowering for my taste.,2024,11,November,49.99,Negative
+CUST1241,2023-05-08,Beats Fit Pro,199.99,4,55+,Male,Asia Pacific,In-Store,Absolutely love these headphones! The sound quality is incredible.,2023,5,May,199.99,Positive
+CUST1242,2023-12-21,Beats Fit Pro,199.99,4,55+,Female,North America,Apple Store,Battery life is outstanding. Wore them all day with no issues.,2023,12,December,199.99,Positive
+CUST1243,2023-05-09,Beats Fit Pro,199.99,5,35-44,Non-Binary,Middle East,Online,The fit is perfect and they're super comfortable for long sessions.,2023,5,May,199.99,Positive
+CUST1244,2023-06-25,Beats Studio Buds+,169.99,5,55+,Non-Binary,Middle East,Apple Store,Premium feel and amazing noise cancellation. Worth every penny.,2023,6,June,169.99,Positive
+CUST1245,2023-03-25,Beats Studio Buds+,169.99,1,18-24,Non-Binary,Middle East,Apple Store,Disappointed with the build quality. Feels cheap for the price.,2023,3,March,169.99,Negative
+CUST1246,2024-03-02,Beats Flex,49.99,3,55+,Non-Binary,North America,Third-Party Retailer,Average noise cancellation. Works fine in mild environments.,2024,3,March,49.99,Neutral
+CUST1247,2024-05-09,Beats Flex,49.99,4,25-34,Non-Binary,Latin America,Apple Store,The fit is perfect and they're super comfortable for long sessions.,2024,5,May,49.99,Positive
+CUST1248,2023-06-11,Beats Solo 4,199.99,2,45-54,Female,Latin America,Third-Party Retailer,Disappointed with the build quality. Feels cheap for the price.,2023,6,June,199.99,Negative
+CUST1249,2023-11-17,Beats Fit Pro,199.99,4,35-44,Non-Binary,Asia Pacific,Third-Party Retailer,Premium feel and amazing noise cancellation. Worth every penny.,2023,11,November,199.99,Positive
+CUST1250,2023-11-23,Beats Fit Pro,199.99,5,25-34,Female,North America,Apple Store,Best purchase I've made this year. Bass is deep and clear.,2023,11,November,199.99,Positive
+CUST1251,2023-02-21,Beats Solo 4,199.99,3,35-44,Female,Middle East,Third-Party Retailer,Decent headphones for the price. Nothing groundbreaking but solid.,2023,2,February,199.99,Neutral
+CUST1252,2023-12-02,Beats Fit Pro,199.99,5,55+,Non-Binary,Asia Pacific,In-Store,Premium feel and amazing noise cancellation. Worth every penny.,2023,12,December,199.99,Positive
+CUST1253,2024-05-25,Beats Fit Pro,199.99,4,35-44,Female,North America,Online,Seamless connection with my iPhone. Switching devices is effortless.,2024,5,May,199.99,Positive
+CUST1254,2023-08-09,Beats Solo 4,199.99,4,55+,Female,North America,Online,Battery life is outstanding. Wore them all day with no issues.,2023,8,August,199.99,Positive
+CUST1255,2023-10-20,Powerbeats Pro,249.99,4,55+,Male,North America,Third-Party Retailer,Seamless connection with my iPhone. Switching devices is effortless.,2023,10,October,249.99,Positive
+CUST1256,2024-02-17,Beats Fit Pro,199.99,5,35-44,Male,Latin America,Online,Incredible sound stage. Music feels alive with these on.,2024,2,February,199.99,Positive
+CUST1257,2024-07-20,Beats Studio Buds+,169.99,4,35-44,Male,Latin America,Third-Party Retailer,Incredible sound stage. Music feels alive with these on.,2024,7,July,169.99,Positive
+CUST1258,2024-11-27,Beats Studio Buds+,169.99,3,55+,Male,Europe,Online,Average noise cancellation. Works fine in mild environments.,2024,11,November,169.99,Neutral
+CUST1259,2024-07-25,Beats Solo 4,199.99,4,35-44,Male,Europe,Third-Party Retailer,Incredible sound stage. Music feels alive with these on.,2024,7,July,199.99,Positive
+CUST1260,2023-05-21,Beats Studio Buds+,169.99,1,35-44,Female,Middle East,Third-Party Retailer,Disappointed with the build quality. Feels cheap for the price.,2023,5,May,169.99,Negative
+CUST1261,2023-12-02,Beats Fit Pro,199.99,4,55+,Female,Europe,Third-Party Retailer,Premium feel and amazing noise cancellation. Worth every penny.,2023,12,December,199.99,Positive
+CUST1262,2024-08-30,Beats Studio Buds+,169.99,5,35-44,Non-Binary,Middle East,Third-Party Retailer,The fit is perfect and they're super comfortable for long sessions.,2024,8,August,169.99,Positive
+CUST1263,2023-01-18,Beats Flex,49.99,4,35-44,Female,North America,Third-Party Retailer,Seamless connection with my iPhone. Switching devices is effortless.,2023,1,January,49.99,Positive
+CUST1264,2024-09-03,Beats Studio Buds+,169.99,4,45-54,Female,Middle East,In-Store,Absolutely love these headphones! The sound quality is incredible.,2024,9,September,169.99,Positive
+CUST1265,2023-06-24,Beats Flex,49.99,2,55+,Non-Binary,Middle East,Third-Party Retailer,Returned after a week. The bass is too overpowering for my taste.,2023,6,June,49.99,Negative
+CUST1266,2023-02-02,Beats Fit Pro,199.99,5,55+,Non-Binary,North America,In-Store,Battery life is outstanding. Wore them all day with no issues.,2023,2,February,199.99,Positive
+CUST1267,2023-06-05,Beats Studio Pro,349.99,4,45-54,Non-Binary,Europe,Third-Party Retailer,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2023,6,June,349.99,Positive
+CUST1268,2023-03-05,Beats Studio Buds+,169.99,5,25-34,Non-Binary,Europe,Apple Store,Seamless connection with my iPhone. Switching devices is effortless.,2023,3,March,169.99,Positive
+CUST1269,2023-11-18,Beats Flex,49.99,4,25-34,Female,Middle East,Apple Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2023,11,November,49.99,Positive
+CUST1270,2024-09-16,Beats Studio Buds+,169.99,4,45-54,Male,Europe,Apple Store,The fit is perfect and they're super comfortable for long sessions.,2024,9,September,169.99,Positive
+CUST1271,2023-10-23,Beats Studio Buds+,169.99,4,25-34,Non-Binary,Latin America,Apple Store,The fit is perfect and they're super comfortable for long sessions.,2023,10,October,169.99,Positive
+CUST1272,2023-10-22,Beats Solo 4,199.99,4,18-24,Non-Binary,Middle East,Third-Party Retailer,The fit is perfect and they're super comfortable for long sessions.,2023,10,October,199.99,Positive
+CUST1273,2023-10-25,Beats Solo 4,199.99,5,18-24,Female,North America,Apple Store,Premium feel and amazing noise cancellation. Worth every penny.,2023,10,October,199.99,Positive
+CUST1274,2023-08-08,Beats Solo 4,199.99,5,25-34,Non-Binary,Asia Pacific,Apple Store,Seamless connection with my iPhone. Switching devices is effortless.,2023,8,August,199.99,Positive
+CUST1275,2024-08-23,Beats Fit Pro,199.99,2,25-34,Male,North America,In-Store,Battery drains faster than advertised. Expected better performance.,2024,8,August,199.99,Negative
+CUST1276,2024-02-28,Beats Flex,49.99,3,35-44,Non-Binary,Latin America,Online,Decent headphones for the price. Nothing groundbreaking but solid.,2024,2,February,49.99,Neutral
+CUST1277,2024-07-17,Beats Flex,49.99,5,25-34,Female,Latin America,Third-Party Retailer,Absolutely love these headphones! The sound quality is incredible.,2024,7,July,49.99,Positive
+CUST1278,2023-11-25,Beats Flex,49.99,3,35-44,Non-Binary,North America,Online,Build quality feels okay. The case could be better designed.,2023,11,November,49.99,Neutral
+CUST1279,2023-06-29,Beats Flex,49.99,4,45-54,Male,North America,Third-Party Retailer,Absolutely love these headphones! The sound quality is incredible.,2023,6,June,49.99,Positive
+CUST1280,2023-10-24,Beats Solo 4,199.99,3,18-24,Male,Asia Pacific,Online,Comfortable enough but the ear cushions get warm after an hour.,2023,10,October,199.99,Neutral
+CUST1281,2023-05-18,Powerbeats Pro,249.99,4,55+,Female,Asia Pacific,In-Store,Seamless connection with my iPhone. Switching devices is effortless.,2023,5,May,249.99,Positive
+CUST1282,2024-10-25,Beats Studio Pro,349.99,4,35-44,Non-Binary,Europe,Online,Seamless connection with my iPhone. Switching devices is effortless.,2024,10,October,349.99,Positive
+CUST1283,2024-08-04,Beats Flex,49.99,4,25-34,Male,Middle East,Third-Party Retailer,The fit is perfect and they're super comfortable for long sessions.,2024,8,August,49.99,Positive
+CUST1284,2024-02-15,Beats Solo 4,199.99,4,18-24,Male,Europe,Third-Party Retailer,Best purchase I've made this year. Bass is deep and clear.,2024,2,February,199.99,Positive
+CUST1285,2023-09-25,Powerbeats Pro,249.99,5,45-54,Male,Latin America,Apple Store,Absolutely love these headphones! The sound quality is incredible.,2023,9,September,249.99,Positive
+CUST1286,2023-09-25,Powerbeats Pro,249.99,4,35-44,Non-Binary,Europe,Online,Absolutely love these headphones! The sound quality is incredible.,2023,9,September,249.99,Positive
+CUST1287,2023-06-13,Beats Flex,49.99,2,45-54,Non-Binary,Middle East,Apple Store,Had connectivity issues from day one. Very frustrating experience.,2023,6,June,49.99,Negative
+CUST1288,2024-01-12,Beats Flex,49.99,2,55+,Male,Europe,In-Store,Had connectivity issues from day one. Very frustrating experience.,2024,1,January,49.99,Negative
+CUST1289,2024-09-12,Beats Solo 4,199.99,3,35-44,Female,Middle East,Third-Party Retailer,Comfortable enough but the ear cushions get warm after an hour.,2024,9,September,199.99,Neutral
+CUST1290,2023-09-11,Beats Studio Buds+,169.99,5,55+,Male,Middle East,Third-Party Retailer,Battery life is outstanding. Wore them all day with no issues.,2023,9,September,169.99,Positive
+CUST1291,2024-07-31,Beats Studio Buds+,169.99,5,18-24,Male,Middle East,In-Store,Best purchase I've made this year. Bass is deep and clear.,2024,7,July,169.99,Positive
+CUST1292,2023-12-02,Beats Studio Buds+,169.99,4,55+,Female,North America,In-Store,Premium feel and amazing noise cancellation. Worth every penny.,2023,12,December,169.99,Positive
+CUST1293,2024-06-06,Beats Flex,49.99,4,45-54,Male,Latin America,In-Store,Best purchase I've made this year. Bass is deep and clear.,2024,6,June,49.99,Positive
+CUST1294,2024-07-26,Beats Studio Buds+,169.99,4,45-54,Non-Binary,Asia Pacific,Online,Absolutely love these headphones! The sound quality is incredible.,2024,7,July,169.99,Positive
+CUST1295,2023-08-12,Beats Solo 4,199.99,3,55+,Male,North America,Third-Party Retailer,Decent headphones for the price. Nothing groundbreaking but solid.,2023,8,August,199.99,Neutral
+CUST1296,2023-03-12,Powerbeats Pro,249.99,5,45-54,Male,Asia Pacific,Third-Party Retailer,Absolutely love these headphones! The sound quality is incredible.,2023,3,March,249.99,Positive
+CUST1297,2024-01-19,Beats Fit Pro,199.99,5,45-54,Female,Latin America,Third-Party Retailer,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,1,January,199.99,Positive
+CUST1298,2024-10-31,Beats Studio Pro,349.99,5,35-44,Male,Europe,Third-Party Retailer,Premium feel and amazing noise cancellation. Worth every penny.,2024,10,October,349.99,Positive
+CUST1299,2023-01-04,Beats Studio Buds+,169.99,2,18-24,Female,Latin America,Third-Party Retailer,Noise cancellation is underwhelming compared to competitors.,2023,1,January,169.99,Negative
+CUST1300,2023-09-11,Beats Studio Buds+,169.99,4,45-54,Female,Europe,Apple Store,Battery life is outstanding. Wore them all day with no issues.,2023,9,September,169.99,Positive
+CUST1301,2023-02-02,Beats Fit Pro,199.99,5,45-54,Non-Binary,North America,In-Store,Best purchase I've made this year. Bass is deep and clear.,2023,2,February,199.99,Positive
+CUST1302,2023-02-04,Beats Fit Pro,199.99,2,45-54,Non-Binary,North America,In-Store,Customer support was unhelpful when I had a problem with my order.,2023,2,February,199.99,Negative
+CUST1303,2023-08-28,Beats Flex,49.99,1,55+,Male,North America,In-Store,Returned after a week. The bass is too overpowering for my taste.,2023,8,August,49.99,Negative
+CUST1304,2024-08-12,Beats Studio Buds+,169.99,5,35-44,Non-Binary,Middle East,Apple Store,Battery life is outstanding. Wore them all day with no issues.,2024,8,August,169.99,Positive
+CUST1305,2024-11-07,Beats Fit Pro,199.99,4,55+,Male,Latin America,Apple Store,Premium feel and amazing noise cancellation. Worth every penny.,2024,11,November,199.99,Positive
+CUST1306,2023-06-29,Powerbeats Pro,249.99,2,45-54,Non-Binary,Latin America,Online,Customer support was unhelpful when I had a problem with my order.,2023,6,June,249.99,Negative
+CUST1307,2024-06-21,Powerbeats Pro,249.99,5,35-44,Non-Binary,Latin America,Third-Party Retailer,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,6,June,249.99,Positive
+CUST1308,2024-07-04,Beats Fit Pro,199.99,4,45-54,Male,Europe,Apple Store,Premium feel and amazing noise cancellation. Worth every penny.,2024,7,July,199.99,Positive
+CUST1309,2023-03-01,Beats Flex,49.99,3,55+,Female,Latin America,In-Store,Good for everyday use. Not the best for professional audio work.,2023,3,March,49.99,Neutral
+CUST1310,2023-12-05,Beats Solo 4,199.99,3,18-24,Female,Asia Pacific,Online,Sound is good but I expected a bit more bass at this price point.,2023,12,December,199.99,Neutral
+CUST1311,2023-02-22,Beats Studio Buds+,169.99,5,35-44,Female,Middle East,Online,Battery life is outstanding. Wore them all day with no issues.,2023,2,February,169.99,Positive
+CUST1312,2024-11-18,Beats Studio Pro,349.99,3,55+,Male,Latin America,In-Store,Average noise cancellation. Works fine in mild environments.,2024,11,November,349.99,Neutral
+CUST1313,2023-08-05,Powerbeats Pro,249.99,4,25-34,Non-Binary,North America,Third-Party Retailer,Absolutely love these headphones! The sound quality is incredible.,2023,8,August,249.99,Positive
+CUST1314,2024-02-11,Beats Fit Pro,199.99,5,25-34,Non-Binary,Asia Pacific,Apple Store,Battery life is outstanding. Wore them all day with no issues.,2024,2,February,199.99,Positive
+CUST1315,2023-11-12,Beats Solo 4,199.99,4,35-44,Female,Middle East,Third-Party Retailer,Incredible sound stage. Music feels alive with these on.,2023,11,November,199.99,Positive
+CUST1316,2024-04-25,Beats Solo 4,199.99,2,35-44,Male,Asia Pacific,Apple Store,Battery drains faster than advertised. Expected better performance.,2024,4,April,199.99,Negative
+CUST1317,2023-05-30,Beats Solo 4,199.99,1,18-24,Female,Middle East,Third-Party Retailer,Noise cancellation is underwhelming compared to competitors.,2023,5,May,199.99,Negative
+CUST1318,2023-08-24,Powerbeats Pro,249.99,3,45-54,Non-Binary,Europe,Third-Party Retailer,Build quality feels okay. The case could be better designed.,2023,8,August,249.99,Neutral
+CUST1319,2023-09-21,Beats Studio Buds+,169.99,5,45-54,Non-Binary,Latin America,Third-Party Retailer,Incredible sound stage. Music feels alive with these on.,2023,9,September,169.99,Positive
+CUST1320,2023-06-23,Beats Fit Pro,199.99,5,25-34,Non-Binary,Middle East,Third-Party Retailer,Incredible sound stage. Music feels alive with these on.,2023,6,June,199.99,Positive
+CUST1321,2024-06-20,Beats Fit Pro,199.99,5,18-24,Male,North America,Online,Absolutely love these headphones! The sound quality is incredible.,2024,6,June,199.99,Positive
+CUST1322,2023-08-25,Beats Solo 4,199.99,3,18-24,Non-Binary,Europe,Online,Comfortable enough but the ear cushions get warm after an hour.,2023,8,August,199.99,Neutral
+CUST1323,2023-03-03,Beats Fit Pro,199.99,4,55+,Non-Binary,Middle East,Third-Party Retailer,Incredible sound stage. Music feels alive with these on.,2023,3,March,199.99,Positive
+CUST1324,2024-06-28,Beats Flex,49.99,4,55+,Female,North America,Online,Absolutely love these headphones! The sound quality is incredible.,2024,6,June,49.99,Positive
+CUST1325,2023-01-18,Beats Studio Buds+,169.99,5,55+,Non-Binary,Latin America,In-Store,The fit is perfect and they're super comfortable for long sessions.,2023,1,January,169.99,Positive
+CUST1326,2023-09-04,Beats Studio Pro,349.99,5,25-34,Non-Binary,Middle East,Apple Store,Premium feel and amazing noise cancellation. Worth every penny.,2023,9,September,349.99,Positive
+CUST1327,2023-03-22,Powerbeats Pro,249.99,3,35-44,Female,Latin America,In-Store,Good for everyday use. Not the best for professional audio work.,2023,3,March,249.99,Neutral
+CUST1328,2023-03-24,Beats Flex,49.99,3,18-24,Male,Latin America,Third-Party Retailer,Comfortable enough but the ear cushions get warm after an hour.,2023,3,March,49.99,Neutral
+CUST1329,2024-10-14,Beats Solo 4,199.99,4,18-24,Non-Binary,Europe,Online,Absolutely love these headphones! The sound quality is incredible.,2024,10,October,199.99,Positive
+CUST1330,2024-08-02,Beats Solo 4,199.99,5,18-24,Non-Binary,North America,In-Store,Incredible sound stage. Music feels alive with these on.,2024,8,August,199.99,Positive
+CUST1331,2023-10-05,Beats Fit Pro,199.99,5,18-24,Male,Asia Pacific,Online,Seamless connection with my iPhone. Switching devices is effortless.,2023,10,October,199.99,Positive
+CUST1332,2023-01-17,Beats Fit Pro,199.99,5,25-34,Non-Binary,Europe,Third-Party Retailer,Incredible sound stage. Music feels alive with these on.,2023,1,January,199.99,Positive
+CUST1333,2024-08-03,Beats Studio Pro,349.99,4,45-54,Non-Binary,Middle East,Apple Store,Battery life is outstanding. Wore them all day with no issues.,2024,8,August,349.99,Positive
+CUST1334,2024-12-06,Beats Solo 4,199.99,5,18-24,Non-Binary,Asia Pacific,Online,Premium feel and amazing noise cancellation. Worth every penny.,2024,12,December,199.99,Positive
+CUST1335,2023-12-15,Beats Studio Pro,349.99,4,55+,Non-Binary,Middle East,Third-Party Retailer,Best purchase I've made this year. Bass is deep and clear.,2023,12,December,349.99,Positive
+CUST1336,2024-04-06,Powerbeats Pro,249.99,1,45-54,Male,Asia Pacific,Third-Party Retailer,Had connectivity issues from day one. Very frustrating experience.,2024,4,April,249.99,Negative
+CUST1337,2024-11-07,Beats Solo 4,199.99,3,45-54,Male,Middle East,Apple Store,Average noise cancellation. Works fine in mild environments.,2024,11,November,199.99,Neutral
+CUST1338,2023-10-02,Beats Fit Pro,199.99,5,25-34,Female,Europe,Third-Party Retailer,Best purchase I've made this year. Bass is deep and clear.,2023,10,October,199.99,Positive
+CUST1339,2023-01-06,Powerbeats Pro,249.99,4,35-44,Female,Asia Pacific,Apple Store,Best purchase I've made this year. Bass is deep and clear.,2023,1,January,249.99,Positive
+CUST1340,2024-03-17,Beats Studio Pro,349.99,3,45-54,Non-Binary,Middle East,Third-Party Retailer,Sound is good but I expected a bit more bass at this price point.,2024,3,March,349.99,Neutral
+CUST1341,2024-07-21,Beats Studio Pro,349.99,1,18-24,Non-Binary,Middle East,Apple Store,Had connectivity issues from day one. Very frustrating experience.,2024,7,July,349.99,Negative
+CUST1342,2024-02-02,Beats Solo 4,199.99,1,18-24,Non-Binary,Middle East,In-Store,Returned after a week. The bass is too overpowering for my taste.,2024,2,February,199.99,Negative
+CUST1343,2023-06-23,Beats Studio Buds+,169.99,4,25-34,Female,Asia Pacific,Apple Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2023,6,June,169.99,Positive
+CUST1344,2024-03-21,Beats Solo 4,199.99,3,35-44,Female,Asia Pacific,Third-Party Retailer,Sound is good but I expected a bit more bass at this price point.,2024,3,March,199.99,Neutral
+CUST1345,2024-10-02,Beats Studio Pro,349.99,4,45-54,Non-Binary,Middle East,In-Store,Battery life is outstanding. Wore them all day with no issues.,2024,10,October,349.99,Positive
+CUST1346,2023-01-07,Beats Solo 4,199.99,2,45-54,Female,Middle East,Third-Party Retailer,Had connectivity issues from day one. Very frustrating experience.,2023,1,January,199.99,Negative
+CUST1347,2024-10-28,Powerbeats Pro,249.99,4,55+,Male,Asia Pacific,Apple Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,10,October,249.99,Positive
+CUST1348,2024-05-05,Beats Studio Buds+,169.99,5,35-44,Male,Latin America,Apple Store,Battery life is outstanding. Wore them all day with no issues.,2024,5,May,169.99,Positive
+CUST1349,2024-08-12,Powerbeats Pro,249.99,5,25-34,Female,Latin America,Apple Store,Seamless connection with my iPhone. Switching devices is effortless.,2024,8,August,249.99,Positive
+CUST1350,2024-08-29,Beats Solo 4,199.99,4,55+,Male,Middle East,Online,Battery life is outstanding. Wore them all day with no issues.,2024,8,August,199.99,Positive
+CUST1351,2024-03-24,Beats Flex,49.99,4,35-44,Non-Binary,North America,Third-Party Retailer,Battery life is outstanding. Wore them all day with no issues.,2024,3,March,49.99,Positive
+CUST1352,2023-09-05,Beats Flex,49.99,4,35-44,Non-Binary,Europe,Third-Party Retailer,The fit is perfect and they're super comfortable for long sessions.,2023,9,September,49.99,Positive
+CUST1353,2024-05-05,Beats Solo 4,199.99,2,55+,Female,Middle East,Third-Party Retailer,Customer support was unhelpful when I had a problem with my order.,2024,5,May,199.99,Negative
+CUST1354,2024-12-19,Beats Studio Buds+,169.99,1,55+,Non-Binary,North America,Online,Had connectivity issues from day one. Very frustrating experience.,2024,12,December,169.99,Negative
+CUST1355,2023-06-20,Beats Fit Pro,199.99,5,55+,Male,Middle East,Third-Party Retailer,Incredible sound stage. Music feels alive with these on.,2023,6,June,199.99,Positive
+CUST1356,2023-04-19,Powerbeats Pro,249.99,5,18-24,Male,Asia Pacific,In-Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2023,4,April,249.99,Positive
+CUST1357,2024-04-01,Beats Studio Buds+,169.99,5,35-44,Female,Latin America,In-Store,Battery life is outstanding. Wore them all day with no issues.,2024,4,April,169.99,Positive
+CUST1358,2023-04-18,Powerbeats Pro,249.99,5,35-44,Female,North America,Online,Seamless connection with my iPhone. Switching devices is effortless.,2023,4,April,249.99,Positive
+CUST1359,2023-12-18,Beats Flex,49.99,3,45-54,Male,Middle East,Third-Party Retailer,Build quality feels okay. The case could be better designed.,2023,12,December,49.99,Neutral
+CUST1360,2024-12-14,Powerbeats Pro,249.99,4,45-54,Female,North America,Apple Store,Seamless connection with my iPhone. Switching devices is effortless.,2024,12,December,249.99,Positive
+CUST1361,2023-01-24,Beats Studio Pro,349.99,5,35-44,Non-Binary,North America,In-Store,Best purchase I've made this year. Bass is deep and clear.,2023,1,January,349.99,Positive
+CUST1362,2024-07-19,Beats Flex,49.99,3,25-34,Female,Middle East,Third-Party Retailer,Sound is good but I expected a bit more bass at this price point.,2024,7,July,49.99,Neutral
+CUST1363,2024-10-06,Beats Solo 4,199.99,3,25-34,Male,Latin America,Third-Party Retailer,Good for everyday use. Not the best for professional audio work.,2024,10,October,199.99,Neutral
+CUST1364,2024-04-05,Beats Studio Pro,349.99,5,55+,Female,Latin America,Online,Battery life is outstanding. Wore them all day with no issues.,2024,4,April,349.99,Positive
+CUST1365,2024-12-21,Beats Flex,49.99,3,18-24,Non-Binary,North America,In-Store,Build quality feels okay. The case could be better designed.,2024,12,December,49.99,Neutral
+CUST1366,2023-04-27,Powerbeats Pro,249.99,4,35-44,Non-Binary,Latin America,Apple Store,Seamless connection with my iPhone. Switching devices is effortless.,2023,4,April,249.99,Positive
+CUST1367,2024-08-24,Beats Studio Buds+,169.99,4,18-24,Female,Asia Pacific,Third-Party Retailer,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,8,August,169.99,Positive
+CUST1368,2024-12-23,Beats Studio Buds+,169.99,3,35-44,Non-Binary,Middle East,Online,Comfortable enough but the ear cushions get warm after an hour.,2024,12,December,169.99,Neutral
+CUST1369,2023-09-02,Beats Flex,49.99,3,35-44,Male,Europe,Apple Store,Decent headphones for the price. Nothing groundbreaking but solid.,2023,9,September,49.99,Neutral
+CUST1370,2024-03-04,Beats Flex,49.99,3,55+,Male,Middle East,Third-Party Retailer,Good for everyday use. Not the best for professional audio work.,2024,3,March,49.99,Neutral
+CUST1371,2024-07-04,Beats Solo 4,199.99,3,25-34,Non-Binary,Europe,Third-Party Retailer,Comfortable enough but the ear cushions get warm after an hour.,2024,7,July,199.99,Neutral
+CUST1372,2024-04-06,Powerbeats Pro,249.99,3,55+,Male,Asia Pacific,Online,Build quality feels okay. The case could be better designed.,2024,4,April,249.99,Neutral
+CUST1373,2024-07-29,Beats Solo 4,199.99,3,55+,Non-Binary,Latin America,Third-Party Retailer,Good for everyday use. Not the best for professional audio work.,2024,7,July,199.99,Neutral
+CUST1374,2024-05-15,Beats Flex,49.99,4,25-34,Male,Middle East,Online,Seamless connection with my iPhone. Switching devices is effortless.,2024,5,May,49.99,Positive
+CUST1375,2023-08-19,Beats Fit Pro,199.99,4,55+,Female,Europe,Third-Party Retailer,The fit is perfect and they're super comfortable for long sessions.,2023,8,August,199.99,Positive
+CUST1376,2024-07-16,Beats Studio Buds+,169.99,5,55+,Male,Middle East,Online,Seamless connection with my iPhone. Switching devices is effortless.,2024,7,July,169.99,Positive
+CUST1377,2024-07-09,Powerbeats Pro,249.99,5,18-24,Non-Binary,Latin America,In-Store,Incredible sound stage. Music feels alive with these on.,2024,7,July,249.99,Positive
+CUST1378,2023-09-11,Beats Solo 4,199.99,2,35-44,Male,Latin America,Apple Store,Battery drains faster than advertised. Expected better performance.,2023,9,September,199.99,Negative
+CUST1379,2024-03-25,Powerbeats Pro,249.99,5,18-24,Male,Europe,Apple Store,Best purchase I've made this year. Bass is deep and clear.,2024,3,March,249.99,Positive
+CUST1380,2023-06-19,Beats Flex,49.99,4,55+,Male,Europe,In-Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2023,6,June,49.99,Positive
+CUST1381,2024-09-03,Beats Studio Pro,349.99,4,55+,Male,Asia Pacific,Apple Store,The fit is perfect and they're super comfortable for long sessions.,2024,9,September,349.99,Positive
+CUST1382,2023-05-19,Powerbeats Pro,249.99,4,45-54,Male,Asia Pacific,In-Store,Best purchase I've made this year. Bass is deep and clear.,2023,5,May,249.99,Positive
+CUST1383,2023-05-30,Beats Flex,49.99,5,35-44,Male,Latin America,Third-Party Retailer,Battery life is outstanding. Wore them all day with no issues.,2023,5,May,49.99,Positive
+CUST1384,2024-10-04,Beats Fit Pro,199.99,4,45-54,Female,Latin America,Online,The fit is perfect and they're super comfortable for long sessions.,2024,10,October,199.99,Positive
+CUST1385,2024-02-17,Beats Flex,49.99,5,55+,Non-Binary,Asia Pacific,Apple Store,Best purchase I've made this year. Bass is deep and clear.,2024,2,February,49.99,Positive
+CUST1386,2024-08-18,Beats Solo 4,199.99,5,18-24,Non-Binary,North America,Third-Party Retailer,Incredible sound stage. Music feels alive with these on.,2024,8,August,199.99,Positive
+CUST1387,2023-03-06,Beats Flex,49.99,5,55+,Female,Europe,Third-Party Retailer,Incredible sound stage. Music feels alive with these on.,2023,3,March,49.99,Positive
+CUST1388,2023-10-18,Beats Fit Pro,199.99,4,35-44,Non-Binary,Middle East,In-Store,Incredible sound stage. Music feels alive with these on.,2023,10,October,199.99,Positive
+CUST1389,2024-11-29,Beats Studio Buds+,169.99,5,18-24,Male,North America,Third-Party Retailer,Incredible sound stage. Music feels alive with these on.,2024,11,November,169.99,Positive
+CUST1390,2024-03-27,Beats Studio Pro,349.99,2,45-54,Male,Latin America,In-Store,Noise cancellation is underwhelming compared to competitors.,2024,3,March,349.99,Negative
+CUST1391,2023-06-12,Beats Flex,49.99,5,35-44,Male,Asia Pacific,Apple Store,The fit is perfect and they're super comfortable for long sessions.,2023,6,June,49.99,Positive
+CUST1392,2023-02-23,Beats Studio Pro,349.99,4,45-54,Non-Binary,Asia Pacific,In-Store,Premium feel and amazing noise cancellation. Worth every penny.,2023,2,February,349.99,Positive
+CUST1393,2023-01-02,Beats Solo 4,199.99,5,25-34,Female,North America,In-Store,Best purchase I've made this year. Bass is deep and clear.,2023,1,January,199.99,Positive
+CUST1394,2024-03-31,Beats Studio Buds+,169.99,3,18-24,Male,Asia Pacific,Online,Comfortable enough but the ear cushions get warm after an hour.,2024,3,March,169.99,Neutral
+CUST1395,2023-03-14,Beats Solo 4,199.99,5,25-34,Female,North America,Online,Seamless connection with my iPhone. Switching devices is effortless.,2023,3,March,199.99,Positive
+CUST1396,2023-05-21,Beats Studio Pro,349.99,4,45-54,Male,Europe,Online,The fit is perfect and they're super comfortable for long sessions.,2023,5,May,349.99,Positive
+CUST1397,2024-03-26,Beats Studio Buds+,169.99,4,35-44,Non-Binary,Europe,In-Store,Premium feel and amazing noise cancellation. Worth every penny.,2024,3,March,169.99,Positive
+CUST1398,2023-08-11,Beats Solo 4,199.99,4,18-24,Male,Europe,Online,Seamless connection with my iPhone. Switching devices is effortless.,2023,8,August,199.99,Positive
+CUST1399,2024-03-15,Beats Studio Buds+,169.99,5,35-44,Male,Europe,Apple Store,Incredible sound stage. Music feels alive with these on.,2024,3,March,169.99,Positive
+CUST1400,2024-09-07,Beats Flex,49.99,2,55+,Non-Binary,Middle East,Apple Store,Customer support was unhelpful when I had a problem with my order.,2024,9,September,49.99,Negative
+CUST1401,2023-11-05,Beats Flex,49.99,1,25-34,Non-Binary,Middle East,In-Store,Battery drains faster than advertised. Expected better performance.,2023,11,November,49.99,Negative
+CUST1402,2023-09-03,Beats Flex,49.99,4,45-54,Female,North America,In-Store,Absolutely love these headphones! The sound quality is incredible.,2023,9,September,49.99,Positive
+CUST1403,2024-06-24,Beats Solo 4,199.99,5,18-24,Female,Asia Pacific,In-Store,Best purchase I've made this year. Bass is deep and clear.,2024,6,June,199.99,Positive
+CUST1404,2024-01-10,Beats Solo 4,199.99,5,55+,Non-Binary,Europe,Third-Party Retailer,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,1,January,199.99,Positive
+CUST1405,2023-01-15,Beats Studio Pro,349.99,1,35-44,Male,North America,Online,Disappointed with the build quality. Feels cheap for the price.,2023,1,January,349.99,Negative
+CUST1406,2024-03-09,Beats Solo 4,199.99,4,45-54,Male,Middle East,In-Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,3,March,199.99,Positive
+CUST1407,2024-06-07,Powerbeats Pro,249.99,2,25-34,Male,Middle East,Apple Store,Disappointed with the build quality. Feels cheap for the price.,2024,6,June,249.99,Negative
+CUST1408,2023-11-14,Beats Solo 4,199.99,4,45-54,Non-Binary,Europe,Online,Best purchase I've made this year. Bass is deep and clear.,2023,11,November,199.99,Positive
+CUST1409,2023-04-29,Beats Fit Pro,199.99,2,45-54,Non-Binary,Middle East,Online,Returned after a week. The bass is too overpowering for my taste.,2023,4,April,199.99,Negative
+CUST1410,2023-05-03,Powerbeats Pro,249.99,5,18-24,Non-Binary,Europe,Online,Premium feel and amazing noise cancellation. Worth every penny.,2023,5,May,249.99,Positive
+CUST1411,2024-06-19,Beats Fit Pro,199.99,4,55+,Non-Binary,Asia Pacific,In-Store,Incredible sound stage. Music feels alive with these on.,2024,6,June,199.99,Positive
+CUST1412,2023-05-01,Powerbeats Pro,249.99,2,18-24,Female,Latin America,Apple Store,Had connectivity issues from day one. Very frustrating experience.,2023,5,May,249.99,Negative
+CUST1413,2024-08-13,Beats Studio Buds+,169.99,2,18-24,Female,Latin America,Apple Store,Battery drains faster than advertised. Expected better performance.,2024,8,August,169.99,Negative
+CUST1414,2024-01-12,Beats Studio Pro,349.99,4,25-34,Female,North America,Online,Premium feel and amazing noise cancellation. Worth every penny.,2024,1,January,349.99,Positive
+CUST1415,2023-02-15,Beats Fit Pro,199.99,5,18-24,Male,North America,Third-Party Retailer,Absolutely love these headphones! The sound quality is incredible.,2023,2,February,199.99,Positive
+CUST1416,2023-07-03,Powerbeats Pro,249.99,4,18-24,Non-Binary,Latin America,In-Store,Premium feel and amazing noise cancellation. Worth every penny.,2023,7,July,249.99,Positive
+CUST1417,2023-11-24,Powerbeats Pro,249.99,3,35-44,Male,Middle East,Apple Store,Comfortable enough but the ear cushions get warm after an hour.,2023,11,November,249.99,Neutral
+CUST1418,2023-07-03,Beats Studio Pro,349.99,4,25-34,Non-Binary,North America,Third-Party Retailer,Absolutely love these headphones! The sound quality is incredible.,2023,7,July,349.99,Positive
+CUST1419,2023-11-15,Beats Studio Pro,349.99,5,35-44,Male,Middle East,Third-Party Retailer,The fit is perfect and they're super comfortable for long sessions.,2023,11,November,349.99,Positive
+CUST1420,2024-07-31,Beats Studio Pro,349.99,4,35-44,Non-Binary,Middle East,In-Store,The fit is perfect and they're super comfortable for long sessions.,2024,7,July,349.99,Positive
+CUST1421,2023-07-20,Beats Solo 4,199.99,4,55+,Male,Europe,Online,Seamless connection with my iPhone. Switching devices is effortless.,2023,7,July,199.99,Positive
+CUST1422,2023-12-21,Beats Solo 4,199.99,1,18-24,Female,North America,Third-Party Retailer,Customer support was unhelpful when I had a problem with my order.,2023,12,December,199.99,Negative
+CUST1423,2023-07-30,Beats Flex,49.99,5,55+,Male,Latin America,Third-Party Retailer,Best purchase I've made this year. Bass is deep and clear.,2023,7,July,49.99,Positive
+CUST1424,2024-12-29,Beats Studio Pro,349.99,5,35-44,Male,North America,In-Store,Premium feel and amazing noise cancellation. Worth every penny.,2024,12,December,349.99,Positive
+CUST1425,2024-04-14,Beats Studio Buds+,169.99,4,18-24,Non-Binary,North America,In-Store,Incredible sound stage. Music feels alive with these on.,2024,4,April,169.99,Positive
+CUST1426,2024-08-29,Beats Flex,49.99,5,55+,Male,Latin America,In-Store,Best purchase I've made this year. Bass is deep and clear.,2024,8,August,49.99,Positive
+CUST1427,2024-02-07,Beats Fit Pro,199.99,4,35-44,Female,Latin America,Apple Store,Incredible sound stage. Music feels alive with these on.,2024,2,February,199.99,Positive
+CUST1428,2023-05-20,Beats Fit Pro,199.99,2,55+,Male,Europe,Online,Noise cancellation is underwhelming compared to competitors.,2023,5,May,199.99,Negative
+CUST1429,2024-02-21,Beats Fit Pro,199.99,4,18-24,Non-Binary,Asia Pacific,In-Store,Incredible sound stage. Music feels alive with these on.,2024,2,February,199.99,Positive
+CUST1430,2023-05-03,Beats Solo 4,199.99,4,18-24,Male,Asia Pacific,Online,The fit is perfect and they're super comfortable for long sessions.,2023,5,May,199.99,Positive
+CUST1431,2023-06-01,Beats Fit Pro,199.99,5,18-24,Non-Binary,Europe,Apple Store,Incredible sound stage. Music feels alive with these on.,2023,6,June,199.99,Positive
+CUST1432,2023-09-24,Beats Solo 4,199.99,4,25-34,Male,Latin America,Third-Party Retailer,The fit is perfect and they're super comfortable for long sessions.,2023,9,September,199.99,Positive
+CUST1433,2023-04-07,Beats Studio Buds+,169.99,5,45-54,Male,Europe,Online,Battery life is outstanding. Wore them all day with no issues.,2023,4,April,169.99,Positive
+CUST1434,2023-05-14,Beats Studio Pro,349.99,2,25-34,Female,Asia Pacific,Online,Noise cancellation is underwhelming compared to competitors.,2023,5,May,349.99,Negative
+CUST1435,2023-01-23,Beats Studio Buds+,169.99,4,18-24,Male,Latin America,In-Store,Best purchase I've made this year. Bass is deep and clear.,2023,1,January,169.99,Positive
+CUST1436,2023-05-06,Beats Studio Pro,349.99,5,18-24,Female,North America,In-Store,Incredible sound stage. Music feels alive with these on.,2023,5,May,349.99,Positive
+CUST1437,2024-05-23,Beats Studio Buds+,169.99,4,18-24,Female,Latin America,In-Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,5,May,169.99,Positive
+CUST1438,2023-10-09,Powerbeats Pro,249.99,3,35-44,Female,Europe,Online,Sound is good but I expected a bit more bass at this price point.,2023,10,October,249.99,Neutral
+CUST1439,2024-10-24,Beats Studio Buds+,169.99,4,35-44,Female,Latin America,Third-Party Retailer,Battery life is outstanding. Wore them all day with no issues.,2024,10,October,169.99,Positive
+CUST1440,2023-05-21,Beats Studio Pro,349.99,2,45-54,Male,Middle East,In-Store,Returned after a week. The bass is too overpowering for my taste.,2023,5,May,349.99,Negative
+CUST1441,2024-01-27,Beats Flex,49.99,5,35-44,Female,Middle East,Third-Party Retailer,Absolutely love these headphones! The sound quality is incredible.,2024,1,January,49.99,Positive
+CUST1442,2024-02-02,Powerbeats Pro,249.99,5,35-44,Male,North America,Apple Store,Incredible sound stage. Music feels alive with these on.,2024,2,February,249.99,Positive
+CUST1443,2023-03-01,Beats Studio Buds+,169.99,3,45-54,Non-Binary,Asia Pacific,In-Store,Build quality feels okay. The case could be better designed.,2023,3,March,169.99,Neutral
+CUST1444,2023-09-04,Beats Fit Pro,199.99,2,35-44,Non-Binary,North America,In-Store,Battery drains faster than advertised. Expected better performance.,2023,9,September,199.99,Negative
+CUST1445,2023-12-30,Beats Studio Buds+,169.99,5,25-34,Male,Europe,Apple Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2023,12,December,169.99,Positive
+CUST1446,2024-12-21,Beats Flex,49.99,5,35-44,Non-Binary,Middle East,In-Store,Absolutely love these headphones! The sound quality is incredible.,2024,12,December,49.99,Positive
+CUST1447,2024-07-09,Beats Studio Buds+,169.99,5,35-44,Male,Latin America,Online,Seamless connection with my iPhone. Switching devices is effortless.,2024,7,July,169.99,Positive
+CUST1448,2023-08-13,Beats Studio Pro,349.99,2,18-24,Non-Binary,Latin America,Online,Customer support was unhelpful when I had a problem with my order.,2023,8,August,349.99,Negative
+CUST1449,2023-05-14,Powerbeats Pro,249.99,5,35-44,Non-Binary,Europe,Apple Store,Battery life is outstanding. Wore them all day with no issues.,2023,5,May,249.99,Positive
+CUST1450,2024-12-22,Beats Studio Pro,349.99,1,25-34,Male,Middle East,Apple Store,Customer support was unhelpful when I had a problem with my order.,2024,12,December,349.99,Negative
+CUST1451,2024-08-23,Beats Studio Pro,349.99,4,18-24,Female,Asia Pacific,Apple Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,8,August,349.99,Positive
+CUST1452,2024-10-16,Beats Fit Pro,199.99,5,45-54,Non-Binary,Asia Pacific,In-Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,10,October,199.99,Positive
+CUST1453,2023-08-17,Beats Flex,49.99,5,55+,Male,Latin America,Apple Store,Incredible sound stage. Music feels alive with these on.,2023,8,August,49.99,Positive
+CUST1454,2023-07-01,Beats Flex,49.99,5,18-24,Non-Binary,Middle East,Third-Party Retailer,Premium feel and amazing noise cancellation. Worth every penny.,2023,7,July,49.99,Positive
+CUST1455,2023-11-22,Beats Studio Buds+,169.99,1,55+,Male,Middle East,Online,Customer support was unhelpful when I had a problem with my order.,2023,11,November,169.99,Negative
+CUST1456,2023-03-21,Beats Solo 4,199.99,3,25-34,Female,Asia Pacific,In-Store,Comfortable enough but the ear cushions get warm after an hour.,2023,3,March,199.99,Neutral
+CUST1457,2024-12-26,Beats Flex,49.99,5,35-44,Female,North America,Apple Store,Best purchase I've made this year. Bass is deep and clear.,2024,12,December,49.99,Positive
+CUST1458,2023-12-25,Beats Fit Pro,199.99,3,35-44,Male,North America,Online,Decent headphones for the price. Nothing groundbreaking but solid.,2023,12,December,199.99,Neutral
+CUST1459,2023-06-20,Beats Solo 4,199.99,4,45-54,Female,Latin America,Apple Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2023,6,June,199.99,Positive
+CUST1460,2024-08-14,Beats Studio Buds+,169.99,4,25-34,Male,Latin America,Online,Seamless connection with my iPhone. Switching devices is effortless.,2024,8,August,169.99,Positive
+CUST1461,2023-09-25,Beats Studio Pro,349.99,4,18-24,Male,Asia Pacific,In-Store,Incredible sound stage. Music feels alive with these on.,2023,9,September,349.99,Positive
+CUST1462,2024-07-14,Beats Solo 4,199.99,3,18-24,Female,Middle East,Third-Party Retailer,Decent headphones for the price. Nothing groundbreaking but solid.,2024,7,July,199.99,Neutral
+CUST1463,2023-06-18,Beats Flex,49.99,1,55+,Female,Europe,Online,Battery drains faster than advertised. Expected better performance.,2023,6,June,49.99,Negative
+CUST1464,2024-02-24,Beats Studio Pro,349.99,4,55+,Non-Binary,Middle East,Apple Store,Battery life is outstanding. Wore them all day with no issues.,2024,2,February,349.99,Positive
+CUST1465,2023-04-09,Beats Flex,49.99,4,18-24,Female,Middle East,Third-Party Retailer,Battery life is outstanding. Wore them all day with no issues.,2023,4,April,49.99,Positive
+CUST1466,2024-03-13,Beats Fit Pro,199.99,2,18-24,Female,Middle East,Third-Party Retailer,Disappointed with the build quality. Feels cheap for the price.,2024,3,March,199.99,Negative
+CUST1467,2023-06-24,Beats Fit Pro,199.99,2,35-44,Male,Latin America,Online,Noise cancellation is underwhelming compared to competitors.,2023,6,June,199.99,Negative
+CUST1468,2024-05-15,Powerbeats Pro,249.99,5,35-44,Male,Middle East,Third-Party Retailer,Seamless connection with my iPhone. Switching devices is effortless.,2024,5,May,249.99,Positive
+CUST1469,2024-01-14,Beats Fit Pro,199.99,4,25-34,Female,North America,Apple Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,1,January,199.99,Positive
+CUST1470,2023-10-03,Beats Solo 4,199.99,4,55+,Male,Europe,Online,Battery life is outstanding. Wore them all day with no issues.,2023,10,October,199.99,Positive
+CUST1471,2024-08-26,Beats Studio Pro,349.99,5,25-34,Non-Binary,North America,Third-Party Retailer,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2024,8,August,349.99,Positive
+CUST1472,2024-08-09,Beats Studio Buds+,169.99,4,25-34,Female,Asia Pacific,Online,Seamless connection with my iPhone. Switching devices is effortless.,2024,8,August,169.99,Positive
+CUST1473,2024-05-29,Beats Solo 4,199.99,5,55+,Non-Binary,Middle East,In-Store,Absolutely love these headphones! The sound quality is incredible.,2024,5,May,199.99,Positive
+CUST1474,2023-06-27,Beats Studio Pro,349.99,5,25-34,Male,Europe,In-Store,Seamless connection with my iPhone. Switching devices is effortless.,2023,6,June,349.99,Positive
+CUST1475,2023-07-26,Beats Studio Pro,349.99,4,25-34,Non-Binary,Asia Pacific,Apple Store,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2023,7,July,349.99,Positive
+CUST1476,2023-03-31,Beats Flex,49.99,5,45-54,Non-Binary,Latin America,Apple Store,Best purchase I've made this year. Bass is deep and clear.,2023,3,March,49.99,Positive
+CUST1477,2024-12-18,Powerbeats Pro,249.99,4,55+,Non-Binary,Middle East,Third-Party Retailer,Absolutely love these headphones! The sound quality is incredible.,2024,12,December,249.99,Positive
+CUST1478,2024-08-03,Beats Studio Pro,349.99,4,55+,Non-Binary,North America,Online,Premium feel and amazing noise cancellation. Worth every penny.,2024,8,August,349.99,Positive
+CUST1479,2024-07-02,Beats Studio Buds+,169.99,5,35-44,Female,Asia Pacific,Third-Party Retailer,The fit is perfect and they're super comfortable for long sessions.,2024,7,July,169.99,Positive
+CUST1480,2023-02-08,Beats Flex,49.99,4,25-34,Female,Latin America,In-Store,Seamless connection with my iPhone. Switching devices is effortless.,2023,2,February,49.99,Positive
+CUST1481,2023-02-09,Beats Studio Buds+,169.99,4,45-54,Female,Europe,Online,Fast charging is a game changer. 10 mins gave me 3 hours of playback.,2023,2,February,169.99,Positive
+CUST1482,2024-01-17,Beats Flex,49.99,4,18-24,Female,Asia Pacific,Apple Store,The fit is perfect and they're super comfortable for long sessions.,2024,1,January,49.99,Positive
+CUST1483,2023-08-22,Powerbeats Pro,249.99,5,25-34,Female,Latin America,Apple Store,Best purchase I've made this year. Bass is deep and clear.,2023,8,August,249.99,Positive
+CUST1484,2023-07-12,Powerbeats Pro,249.99,5,45-54,Male,Latin America,Third-Party Retailer,Best purchase I've made this year. Bass is deep and clear.,2023,7,July,249.99,Positive
+CUST1485,2024-06-11,Beats Studio Buds+,169.99,5,25-34,Male,Asia Pacific,Third-Party Retailer,Absolutely love these headphones! The sound quality is incredible.,2024,6,June,169.99,Positive
+CUST1486,2023-06-27,Beats Fit Pro,199.99,5,25-34,Male,North America,In-Store,Absolutely love these headphones! The sound quality is incredible.,2023,6,June,199.99,Positive
+CUST1487,2024-12-22,Beats Studio Pro,349.99,4,25-34,Female,Asia Pacific,Third-Party Retailer,Incredible sound stage. Music feels alive with these on.,2024,12,December,349.99,Positive
+CUST1488,2024-11-28,Beats Studio Buds+,169.99,4,18-24,Male,Asia Pacific,Third-Party Retailer,Best purchase I've made this year. Bass is deep and clear.,2024,11,November,169.99,Positive
+CUST1489,2024-08-23,Beats Studio Buds+,169.99,4,55+,Female,Asia Pacific,In-Store,Seamless connection with my iPhone. Switching devices is effortless.,2024,8,August,169.99,Positive
+CUST1490,2023-10-19,Powerbeats Pro,249.99,5,18-24,Female,North America,In-Store,Best purchase I've made this year. Bass is deep and clear.,2023,10,October,249.99,Positive
+CUST1491,2023-08-15,Beats Studio Buds+,169.99,5,25-34,Non-Binary,Europe,Apple Store,Battery life is outstanding. Wore them all day with no issues.,2023,8,August,169.99,Positive
+CUST1492,2024-11-29,Beats Flex,49.99,4,18-24,Female,Europe,In-Store,Absolutely love these headphones! The sound quality is incredible.,2024,11,November,49.99,Positive
+CUST1493,2023-09-16,Beats Studio Buds+,169.99,5,55+,Female,Asia Pacific,Third-Party Retailer,Battery life is outstanding. Wore them all day with no issues.,2023,9,September,169.99,Positive
+CUST1494,2023-09-16,Beats Solo 4,199.99,5,25-34,Female,Asia Pacific,Third-Party Retailer,Seamless connection with my iPhone. Switching devices is effortless.,2023,9,September,199.99,Positive
+CUST1495,2024-11-09,Beats Studio Buds+,169.99,2,35-44,Non-Binary,Middle East,Apple Store,Customer support was unhelpful when I had a problem with my order.,2024,11,November,169.99,Negative
+CUST1496,2023-03-07,Powerbeats Pro,249.99,5,35-44,Female,Asia Pacific,Apple Store,Seamless connection with my iPhone. Switching devices is effortless.,2023,3,March,249.99,Positive
+CUST1497,2023-07-12,Powerbeats Pro,249.99,5,25-34,Non-Binary,Europe,Online,The fit is perfect and they're super comfortable for long sessions.,2023,7,July,249.99,Positive
+CUST1498,2024-11-28,Beats Studio Buds+,169.99,4,25-34,Non-Binary,North America,Third-Party Retailer,Incredible sound stage. Music feels alive with these on.,2024,11,November,169.99,Positive
+CUST1499,2024-02-19,Powerbeats Pro,249.99,3,45-54,Non-Binary,North America,In-Store,Good for everyday use. Not the best for professional audio work.,2024,2,February,249.99,Neutral
